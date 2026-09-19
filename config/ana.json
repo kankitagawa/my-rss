@@ -1,0 +1,7 @@
+{
+  "name": "ANA 翼の王国・新着記事（非公式）",
+  "url": "https://tsubasa.ana.co.jp/",
+  "feed_limit": 100,
+  "minimum_items": 1,
+  "minimum_count_ratio": 0.5
+}
