@@ -1,0 +1,66 @@
+name: Update RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 21 * * *' # 毎日 日本時間 06:17 頃（遅延する場合あり）
+
+concurrency:
+  group: rss-update
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/configure-pages@v5
+        id: pages
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Generate RSS
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python update.py --base-url "$SITE_URL"
+      - name: Save history
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state/ana.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update RSS history'
+            git push origin "HEAD:$DEFAULT_BRANCH"
+          fi
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
