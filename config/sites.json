@@ -1,0 +1,220 @@
+{
+  "sites": [
+    {
+      "id": "ana",
+      "name": "ANA 翼の王国・新着記事（非公式）",
+      "kind": "ana_api",
+      "url": "https://tsubasa.ana.co.jp/",
+      "source": "https://tsubasa.ana.co.jp/wp-json/wp/v2/posts?per_page=30&_fields=id,date,link,title",
+      "page_size": 30,
+      "max_pages": 20,
+      "feed_limit": 500
+    },
+    {
+      "id": "4travel-domestic",
+      "name": "フォートラベル・国内新着旅行記（非公式）",
+      "kind": "html",
+      "url": "https://4travel.jp/domestic/travelogue",
+      "source": "https://4travel.jp/domestic/travelogue?category=new",
+      "items": "#travelogue_list > li.travelList_cardBlock",
+      "link": "a.titleItem",
+      "date": "[data-published-at]",
+      "date_attr": "data-published-at",
+      "next": "#more_travelogues",
+      "max_pages": 20,
+      "feed_limit": 1000
+    },
+    {
+      "id": "4travel-overseas",
+      "name": "フォートラベル・海外新着旅行記（非公式）",
+      "kind": "html",
+      "url": "https://4travel.jp/overseas/travelogue",
+      "source": "https://4travel.jp/overseas/travelogue?category=new",
+      "items": "#travelogue_list > li.travelList_cardBlock",
+      "link": "a.titleItem",
+      "date": "[data-published-at]",
+      "date_attr": "data-published-at",
+      "next": "#more_travelogues",
+      "max_pages": 20,
+      "feed_limit": 1000
+    },
+    {
+      "id": "jazztokyo",
+      "name": "JazzTokyo・全ライターのコラム（非公式）",
+      "kind": "jazz",
+      "url": "https://jazztokyo.org/column/",
+      "source": "https://jazztokyo.org/category/column/",
+      "link": "h3 a",
+      "feed_limit": 500
+    },
+    {
+      "id": "matsuwa",
+      "name": "松和ブログ・日記・コラム・つぶやき（非公式）",
+      "kind": "rss_category",
+      "url": "https://v-matsuwa.cocolog-nifty.com/blog/cat2315990/index.html",
+      "source": "https://v-matsuwa.cocolog-nifty.com/blog/rss.xml",
+      "category": "日記・コラム・つぶやき",
+      "feed_limit": 500
+    },
+    {
+      "id": "wired-computer-science",
+      "name": "WIRED・Computer Science（非公式）",
+      "kind": "html",
+      "url": "https://wired.jp/tag/computer-science/",
+      "source": "https://wired.jp/tag/computer-science/",
+      "items": ".summary-item:not(.ad)",
+      "link": ".summary-item__hed-link",
+      "date": "time.summary-item__publish-date",
+      "feed_limit": 500
+    },
+    {
+      "id": "jsports-carp",
+      "name": "J SPORTS・カープ新着（非公式）",
+      "kind": "carp",
+      "url": "https://news.jsports.co.jp/tag/%E3%82%AB%E3%83%BC%E3%83%97/",
+      "source": "https://news.jsports.co.jp/tag/%E3%82%AB%E3%83%BC%E3%83%97/",
+      "items": "section.p-layout__item--left.order1 .column__list > li",
+      "link": ".column__title a",
+      "max_pages": 10,
+      "feed_limit": 500
+    },
+    {
+      "id": "jsports-loveclub",
+      "name": "カープ愛倶楽部・限定コラム全体（非公式）",
+      "kind": "html",
+      "url": "https://www.jsports.co.jp/baseball/carp/loveclub/column/",
+      "source": "https://www.jsports.co.jp/baseball/carp/loveclub/column/",
+      "items": ".clc-column li.column__item",
+      "link": ".column__title a",
+      "date": ".column__date",
+      "feed_limit": 500
+    },
+    {
+      "id": "jsports-fuyuka",
+      "name": "カープ愛倶楽部・ふゆっぴコラム（非公式）",
+      "kind": "html",
+      "url": "https://www.jsports.co.jp/baseball/carp/loveclub/column/#fuyukacolumn",
+      "source": "https://www.jsports.co.jp/baseball/carp/loveclub/column/",
+      "items": "#fuyukacolumn li.column__item",
+      "link": ".column__title a",
+      "date": ".column__date",
+      "feed_limit": 500
+    },
+    {
+      "id": "si-mlb",
+      "name": "Sports Illustrated・MLB（非公式）",
+      "url": "https://www.si.com/mlb",
+      "source": "https://www.si.com/mlb/archive",
+      "kind": "si_jsonld",
+      "feed_limit": 500,
+      "language": "en"
+    },
+    {
+      "id": "arukikata-tokuhain",
+      "name": "地球の歩き方・特派員ブログ（非公式）",
+      "url": "https://www.arukikata.co.jp/tokuhain/",
+      "source": "https://www.arukikata.co.jp/tokuhain/list/",
+      "kind": "html",
+      "feed_limit": 500,
+      "items": ".c-tokuhain-list__item",
+      "link": "a.c-tokuhain-list__link",
+      "title": ".c-tokuhain-card__title",
+      "date": ".c-tokuhain-card__date",
+      "author": ".c-tokuhain-card__author-name",
+      "next": "a.next.page-numbers"
+    },
+    {
+      "id": "thecinema",
+      "name": "ザ・シネマ・コラム（非公式）",
+      "url": "https://www.thecinema.jp/column/",
+      "source": "https://www.thecinema.jp/cms-data/json/column.json",
+      "kind": "cinema_json",
+      "feed_limit": 500
+    },
+    {
+      "id": "jcom-movie-column",
+      "name": "J:magazine・映画コラム（非公式）",
+      "url": "https://jmagazine.myjcom.jp/category/movie/column/",
+      "source": "https://jmagazine.myjcom.jp/category/movie/column/",
+      "kind": "html",
+      "feed_limit": 500,
+      "items": ".category_list .card",
+      "link": "a.l-aside_link",
+      "title": ".card_prg_ph img",
+      "title_attr": "alt",
+      "date": "time.post_date",
+      "date_attr": "postdate"
+    },
+    {
+      "id": "book-asahi-column",
+      "name": "好書好日・コラム（非公式）",
+      "url": "https://book.asahi.com/column/",
+      "source": "https://book.asahi.com/column/",
+      "kind": "book_html",
+      "feed_limit": 500,
+      "link": ".module-list-articles__heading a",
+      "date": "time.module-list-articles__time",
+      "author": ".module-list-articles__writer"
+    },
+    {
+      "id": "shosetsu-fbs",
+      "name": "小説丸・書店員さん おすすめ本コラム（非公式）",
+      "url": "https://shosetsu-maru.com/recommended/fbs_column",
+      "source": "https://shosetsu-maru.com/recommended/fbs_column/feed",
+      "kind": "rss",
+      "feed_limit": 500,
+      "page_size": 10
+    },
+    {
+      "id": "gizmodo",
+      "name": "Gizmodo Japan・新着（非公式）",
+      "url": "https://www.gizmodo.jp/",
+      "source": "https://www.gizmodo.jp/",
+      "kind": "gizmodo_data",
+      "feed_limit": 500
+    },
+    {
+      "id": "gadget-gate",
+      "name": "Gadget Gate・新着（非公式）",
+      "url": "https://gadget.phileweb.com/",
+      "source": "https://gadget.phileweb.com/feed/",
+      "kind": "rss",
+      "feed_limit": 500,
+      "page_size": 10
+    },
+    {
+      "id": "dime-gadget",
+      "name": "DIME・ガジェット（非公式）",
+      "url": "https://dime.jp/genre/technology/gadget/",
+      "source": "https://dime.jp/genre/technology/gadget/",
+      "kind": "html",
+      "feed_limit": 500,
+      "items": ".pc_contents .entryList_item",
+      "link": "a.entryList_item_link",
+      "title": ".entryList_item_title",
+      "date": ".entryList_item_date",
+      "next": ".pager_list_link-next a"
+    },
+    {
+      "id": "getnavi-gadgets",
+      "name": "GetNavi・デジタル・ガジェット（非公式）",
+      "url": "https://getnavi.jp/category/gadgets/",
+      "source": "https://getnavi.jp/category/gadgets/feed/",
+      "kind": "rss",
+      "feed_limit": 500,
+      "page_size": 30
+    },
+    {
+      "id": "hb-nippon",
+      "name": "高校野球ドットコム・新着記事（非公式）",
+      "url": "https://www.hb-nippon.com/articles",
+      "source": "https://www.hb-nippon.com/articles",
+      "kind": "html",
+      "feed_limit": 500,
+      "items": ".mainBox .list_articleSummary > li",
+      "link": ".article_text a",
+      "date": ".article_info .time",
+      "next": "a.next"
+    }
+  ]
+}
