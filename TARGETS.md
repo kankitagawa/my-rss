@@ -1,4 +1,6 @@
 # 対象一覧
 
-全9フィードを `config/sites.json` に実装済み。対応URL、抽出範囲、既存RSSを直接登録する「週末大冒険」の扱いはREADMEを参照してください。
-ANAだけのPoCから更新するときは `.github/workflows/update.yml` も必ず置き換え、既存の `state/ana.json` は保持します。
+全20フィードを `config/sites.json` に実装済み。今回追加した11サイトは、前の9本の統合版には含まれていませんでした。
+対応URL、抽出範囲、RSS名はREADMEの一覧を参照してください。
+「週末大冒険」はユーザーが既存RSSを登録済みのため、本システムには含めません。
+ANAのPoCから更新するときは `.github/workflows/update.yml` も置き換え、既存の `state/` は保持します。

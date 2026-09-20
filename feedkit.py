@@ -31,8 +31,13 @@ def date_value(value):
     if m:
         month, day, year = map(int, m.groups())
         return datetime(year, month, day, tzinfo=JST).isoformat()
+    # Normalize date-only/list formats without corrupting ISO fractional seconds.
+    m = re.fullmatch(r'(\d{4})[./](\d{1,2})[./](\d{1,2})(?:\s+(\d{1,2}):(\d{2}))?', value)
+    if m:
+        y, mo, d, h, mi = m.groups()
+        return datetime(int(y), int(mo), int(d), int(h or 0), int(mi or 0), tzinfo=JST).isoformat()
     try:
-        dt = datetime.fromisoformat(value.replace('Z', '+00:00').replace('.', '-'))
+        dt = datetime.fromisoformat(value.replace('Z', '+00:00'))
     except ValueError:
         dt = parsedate_to_datetime(value)
     if dt.tzinfo is None:
@@ -104,11 +109,15 @@ def parse_html(text, cfg, base):
             if kind == 'carp' and not row.get_text(strip=True):
                 continue
             raise ValueError('Article link missing')
-        title = a.get_text(' ', strip=True)
+        title_node = row.select_one(cfg['title']) if cfg.get('title') else a
+        if title_node is None:
+            raise ValueError('Article title missing')
+        title = title_node.get(cfg['title_attr'], '') if cfg.get('title_attr') else title_node.get_text(' ', strip=True)
         if kind == 'carp':
             result.append(dict(title=clean(title), url=urljoin(base, a['href'])))
             continue
-        author = ''
+        author_node = row.select_one(cfg['author']) if cfg.get('author') else None
+        author = author_node.get_text(' ', strip=True) if author_node else ''
         if kind == 'jazz':
             metas = row.select('.entry-meta')
             dated = next((m.get_text(' ', strip=True) for m in metas if re.search(r'\d{4}年\s*—', m.text)), '')
@@ -139,12 +148,48 @@ def rss_items(text, cfg):
         raise ValueError('RSS has no items')
     selected = []
     for node in all_items:
-        if cfg['category'] not in [c.text for c in node.findall('category')]:
+        if cfg.get('category') and cfg['category'] not in [c.text for c in node.findall('category')]:
             continue
         selected.append(item(node.findtext('title', ''), node.findtext('link', ''), node.findtext('pubDate', ''), cfg['url']))
     if not selected:
         raise ValueError('No matching category in RSS')
     return selected
+
+
+def parse_data_page(text, cfg, base, page):
+    """Public data embedded in the page or used by its own article list."""
+    kind = cfg['kind']
+    if kind == 'cinema_json':
+        rows = json.loads(text)
+        entries = [item(x['title'], x['url'], x['date'], cfg['url']) for x in rows]
+        next_url = None
+    elif kind == 'si_jsonld':
+        s = soup(text)
+        rows = [json.loads(x.string) for x in s.select('article script[type="application/ld+json"]')]
+        entries = [item(x['headline'], x['@id'], x['datePublished'], cfg['url'], x.get('author', {}).get('name', ''))
+                   for x in rows if x.get('@type') == 'NewsArticle' and urlsplit(x.get('@id', '')).path.startswith('/mlb/')]
+        a = next((a for a in s.select('a[href]') if a.get_text(strip=True) == 'Next'), None)
+        next_url = urljoin(base, a['href']) if a else None
+    elif kind == 'gizmodo_data':
+        s = soup(text)
+        script = s.select_one('#__NEXT_DATA__')
+        rows = json.loads(script.string)['props']['pageProps']['articles']
+        entries = [item(x['title'], '/article/' + x['slug'] + '/', x['released_at'], cfg['url'])
+                   for x in rows if not x.get('isLogly')]
+        a = next((a for a in s.select('a[href]') if a.get_text(strip=True) == 'NEXT'), None)
+        next_url = urljoin(base, a['href']) if a else None
+    elif kind == 'book_html':
+        page_cfg = dict(cfg, items='#list .module-list-articles__item' if page == 1 else '.module-list-articles__item')
+        if page > 1 and 'enddatas' in text and not soup(text).select('.module-list-articles__item'):
+            return [], None
+        entries, _ = parse_html(text, page_cfg, base)
+        next_url = (cfg['url'] + f'readmore?p={page + 1}&offset={page * 12}&category=all'
+                    if 'enddatas' not in text else None)
+    else:
+        raise ValueError('Unknown data adapter')
+    if not entries:
+        raise ValueError('0 articles: public data changed or unavailable')
+    return entries, next_url
 
 
 def matsuwa_archive(text, cfg):
@@ -190,6 +235,13 @@ def collect(cfg, old, client):
                 raise ValueError('ANA API returned no articles')
             current = [item(soup(x['title']['rendered']).get_text(), x['link'], x['date'], cfg['url']) for x in raw]
             next_url = cfg['source'] + '&page=' + str(page + 1) if len(raw) == cfg['page_size'] else None
+        elif kind == 'rss':
+            current = rss_items(text, cfg)
+            separator = '&' if '?' in cfg['source'] else '?'
+            next_url = (cfg['source'] + separator + 'paged=' + str(page + 1)
+                        if len(current) >= cfg['page_size'] else None)
+        elif kind in ('cinema_json', 'si_jsonld', 'gizmodo_data', 'book_html'):
+            current, next_url = parse_data_page(text, cfg, url, page)
         else:
             current, next_url = parse_html(text, cfg, url)
         if page == 1:
@@ -254,7 +306,7 @@ def rss_bytes(state, cfg, base_url):
     ET.register_namespace('dc', 'http://purl.org/dc/elements/1.1/')
     root = ET.Element('rss', version='2.0')
     channel = ET.SubElement(root, 'channel')
-    for tag, value in [('title', cfg['name']), ('link', cfg['url']), ('language', 'ja'), ('description', '公開タイトル・リンク・日付をまとめた非公式の個人用フィード')]:
+    for tag, value in [('title', cfg['name']), ('link', cfg['url']), ('language', cfg.get('language', 'ja')), ('description', '公開タイトル・リンク・日付をまとめた非公式の個人用フィード')]:
         ET.SubElement(channel, tag).text = value
     if base_url:
         ET.SubElement(channel, '{http://www.w3.org/2005/Atom}link', href=base_url.rstrip('/') + '/feeds/' + cfg['id'] + '.xml', rel='self', type='application/rss+xml')
