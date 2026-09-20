@@ -16,10 +16,12 @@ jobs:
   build:
     if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     permissions:
       contents: write
       pages: read
+    outputs:
+      errors: ${{ steps.generate.outputs.errors }}
     steps:
       - uses: actions/checkout@v6
         with:
@@ -29,19 +31,24 @@ jobs:
           python-version: '3.12'
       - uses: actions/configure-pages@v5
         id: pages
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
       - name: Test
+        env:
+          GITHUB_STEP_SUMMARY: ""
         run: python -m unittest discover -s tests -v
       - name: Generate RSS
+        id: generate
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}
-        run: python update.py --base-url "$SITE_URL"
+        run: python update_all.py --base-url "$SITE_URL" --allow-partial
       - name: Save history
         env:
           DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add state/ana.json
+          git add state/
           if ! git diff --cached --quiet; then
             git commit -m 'Update RSS history'
             git push origin "HEAD:$DEFAULT_BRANCH"
@@ -64,3 +71,17 @@ jobs:
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  check-results:
+    needs: [build, deploy]
+    if: always() && needs.build.result == 'success' && needs.deploy.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Report site failures after publishing working feeds
+        env:
+          ERRORS: ${{ needs.build.outputs.errors }}
+        run: |
+          if [ "$ERRORS" != "0" ]; then
+            echo "::error::Some sites failed. Working feeds were published; inspect build summary and status.json."
+            exit 1
+          fi
