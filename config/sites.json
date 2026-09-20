@@ -22,7 +22,9 @@
       "date_attr": "data-published-at",
       "next": "#more_travelogues",
       "max_pages": 20,
-      "feed_limit": 1000
+      "feed_limit": 1000,
+      "browser_on_403": true,
+      "browser_wait_selector": "#travelogue_list > li.travelList_cardBlock a.titleItem"
     },
     {
       "id": "4travel-overseas",
@@ -36,7 +38,9 @@
       "date_attr": "data-published-at",
       "next": "#more_travelogues",
       "max_pages": 20,
-      "feed_limit": 1000
+      "feed_limit": 1000,
+      "browser_on_403": true,
+      "browser_wait_selector": "#travelogue_list > li.travelList_cardBlock a.titleItem"
     },
     {
       "id": "jazztokyo",
@@ -50,11 +54,13 @@
     {
       "id": "matsuwa",
       "name": "松和ブログ・日記・コラム・つぶやき（非公式）",
-      "kind": "rss_category",
+      "kind": "matsuwa_html",
       "url": "https://v-matsuwa.cocolog-nifty.com/blog/cat2315990/index.html",
-      "source": "https://v-matsuwa.cocolog-nifty.com/blog/rss.xml",
+      "source": "https://v-matsuwa.cocolog-nifty.com/blog/cat2315990/index.html",
       "category": "日記・コラム・つぶやき",
-      "feed_limit": 500
+      "feed_limit": 500,
+      "browser_on_403": true,
+      "browser_wait_selector": "h3.entry-header a"
     },
     {
       "id": "wired-computer-science",
