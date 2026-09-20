@@ -64,6 +64,33 @@ class Client:
         self.cache = {}
         self.last = {}
         self.count = 0
+        self.events = []
+
+    def get_browser(self, url, selector):
+        key = ('browser', url)
+        if key in self.cache:
+            return self.cache[key]
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            try:
+                context = browser.new_context(locale='ja-JP', timezone_id='Asia/Tokyo')
+                page = context.new_page()
+                response = page.goto(url, wait_until='domcontentloaded', timeout=45000)
+                status = response.status if response else None
+                self.events.append(dict(method='chromium', url=url, status=status))
+                if status is None or status >= 400:
+                    raise ValueError(f'Chromium HTTP {status}; title={clean(page.title())[:120]}')
+                if urlsplit(page.url).hostname != urlsplit(url).hostname:
+                    raise ValueError('Browser redirected to another host')
+                page.locator(selector).first.wait_for(state='attached', timeout=20000)
+                text = page.content()
+                if len(text.encode()) > 12_000_000:
+                    raise ValueError('Browser response exceeds 12MB')
+                self.cache[key] = text
+                return text
+            finally:
+                browser.close()
 
     def get(self, url):
         if url in self.cache:
@@ -76,6 +103,7 @@ class Client:
                 response = self.session.get(url, timeout=(10, 30))
                 self.last[host] = time.monotonic()
                 self.count += 1
+                self.events.append(dict(method='http', url=url, status=response.status_code))
                 if response.status_code in (429, 500, 502, 503, 504) and attempt == 0:
                     time.sleep(2)
                     continue
@@ -89,6 +117,19 @@ class Client:
                 if attempt:
                     raise
         raise ValueError('No response')
+
+
+def fetch_html(client, url, cfg):
+    """Only configured public lists get one normal browser attempt after HTTP 403."""
+    try:
+        return client.get(url)
+    except requests.HTTPError as exc:
+        if not cfg.get('browser_on_403') or exc.response is None or exc.response.status_code != 403:
+            raise
+        try:
+            return client.get_browser(url, cfg['browser_wait_selector'])
+        except Exception as browser_error:
+            raise ValueError(f'HTTP 403; browser fallback failed: {browser_error}') from browser_error
 
 
 def parse_html(text, cfg, base):
@@ -210,6 +251,11 @@ def collect(cfg, old, client):
     known = old.get('entries', {})
     kind = cfg['kind']
     notes = []
+    if kind == 'matsuwa_html':
+        entries = matsuwa_archive(fetch_html(client, cfg['source'], cfg), cfg)
+        if known and not any(x['url'] in known for x in entries):
+            notes.append('過去履歴との重なりなし。カテゴリー一覧の掲載範囲を確認してください。')
+        return entries, len(entries), notes
     if kind == 'rss_category':
         entries = rss_items(client.get(cfg['source']), cfg)
         if known and not any(x['url'] in known for x in entries):
@@ -228,7 +274,7 @@ def collect(cfg, old, client):
         if url in visited:
             raise ValueError('Pagination loop; previous history retained')
         visited.add(url)
-        text = client.get(url)
+        text = fetch_html(client, url, cfg)
         if kind == 'ana_api':
             raw = json.loads(text)
             if not isinstance(raw, list) or not raw:

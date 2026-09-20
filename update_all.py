@@ -31,6 +31,7 @@ def execute(configs, state_dir, output, base_url='', client=None):
         path = state_dir / (key + '.json')
         status = dict(id=key, name=cfg['name'], status='ok', fetched=0, new=0, changed=0, notes=[])
         current = old
+        event_start = len(getattr(client, 'events', []))
         try:
             entries, first_count, notes = collect(cfg, old, client)
             current, added, changed = merge_state(old, entries, now, first_count, cfg)
@@ -47,6 +48,7 @@ def execute(configs, state_dir, output, base_url='', client=None):
                 atomic(output / 'feeds' / (key + '.xml'), rss_bytes(old, cfg, base_url))
             status.update(status='error', notes=[f'{type(exc).__name__}: {exc}'])
         status['stored'] = len(current.get('entries', {}))
+        status['requests'] = getattr(client, 'events', [])[event_start:]
         status['last_success'] = current.get('last_checked')
         file = output / 'feeds' / (key + '.xml')
         status['available'] = file.exists()
@@ -55,6 +57,9 @@ def execute(configs, state_dir, output, base_url='', client=None):
         print(f"{key}: {status['status']} fetched={status['fetched']} new={status['new']} changed={status['changed']} feed={status['feed_items']}", flush=True)
         for note in status['notes']:
             print(f'  {note}', flush=True)
+        if cfg.get('browser_on_403'):
+            for attempt in status['requests']:
+                print(f"  {attempt['method']} HTTP {attempt['status']} {attempt['url']}", flush=True)
     atomic(output / 'status.json', json.dumps(dict(checked_at=now, sites=report), ensure_ascii=False, indent=2).encode())
     rows = []
     outlines = []
