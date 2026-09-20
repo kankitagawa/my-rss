@@ -1,0 +1,147 @@
+{
+  "version": 2,
+  "entries": {
+    "https://wired.jp/article/microsoft-quantum-chief-majorana-results/": {
+      "title": "マイクロソフトの量子開発責任者、科学者らの疑念を意に介さず",
+      "url": "https://wired.jp/article/microsoft-quantum-chief-majorana-results/",
+      "published": "2026-08-15T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/artificial-intelligence-dictionary/": {
+      "title": "知っておくべきAIの基礎用語33選",
+      "url": "https://wired.jp/article/artificial-intelligence-dictionary/",
+      "published": "2026-08-04T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/nasa-high-performance-spaceflight-computer-testing/": {
+      "title": "NASAの次世代宇宙コンピューターが、自律型探査の未来を拓く",
+      "url": "https://wired.jp/article/nasa-high-performance-spaceflight-computer-testing/",
+      "published": "2026-06-02T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-alphafold-changed-science-after-5-years-its-still-evolving/": {
+      "title": "科学を変えたAlphaFold、衝撃デビューからの5年と次なるターゲット",
+      "url": "https://wired.jp/article/sz-alphafold-changed-science-after-5-years-its-still-evolving/",
+      "published": "2026-04-23T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-blaise-aguera-y-arcas-keynote-wired-futures-conference/": {
+      "title": "AIに魂は宿るのか？ グーグルのブレイス・アグエラ・イ・アルカスが語ったKeynote全文公開",
+      "url": "https://wired.jp/article/sz-blaise-aguera-y-arcas-keynote-wired-futures-conference/",
+      "published": "2026-01-28T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/microsoft-topological-quantum-bet-majorana-strategy/": {
+      "title": "マイクロソフトは「マヨラナ」を選択した：巨人が進める“急がば回れ”の量子コンピューター戦略",
+      "url": "https://wired.jp/article/microsoft-topological-quantum-bet-majorana-strategy/",
+      "published": "2025-12-18T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/ai-comes-up-with-bizarre-physics-experiments-but-they-work/": {
+      "title": "AIが奇想天外な物理実験を考案、成果を出し始めている",
+      "url": "https://wired.jp/article/ai-comes-up-with-bizarre-physics-experiments-but-they-work/",
+      "published": "2025-12-09T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/": {
+      "title": "AIと量子はスーパーコンピューターの力を飛躍的に高めるか？ ：ジャック・ドンガラに聞く",
+      "url": "https://wired.jp/article/sz-how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/",
+      "published": "2025-10-24T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/for-algorithms-a-little-memory-outweighs-a-lot-of-time/": {
+      "title": "アルゴリズムにとって、メモリは時間よりもはるかに強力なリソースとなる",
+      "url": "https://wired.jp/article/for-algorithms-a-little-memory-outweighs-a-lot-of-time/",
+      "published": "2025-10-14T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/optical-quantum-circuits-on-ultrathin-metasurface/": {
+      "title": "光量子回路を指先サイズの“板”に集約、量子コンピューターの実用化に追い風なるか",
+      "url": "https://wired.jp/article/optical-quantum-circuits-on-ultrathin-metasurface/",
+      "published": "2025-08-06T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/universal-translator-in-quantum-networks/": {
+      "title": "量子コンピューター同士の長距離通信を実現、データを橋渡しする新しい“翻訳機”が秘めた可能性",
+      "url": "https://wired.jp/article/universal-translator-in-quantum-networks/",
+      "published": "2025-07-12T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-openworm-worm-simulator-biology-code/": {
+      "title": "線虫を分子レベルで解読せよ──オープンワーム・プロジェクトの挑戦",
+      "url": "https://wired.jp/article/sz-openworm-worm-simulator-biology-code/",
+      "published": "2025-06-04T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/why-researchers-are-turning-to-small-language-models/": {
+      "title": "研究者たちが熱中する「小規模言語モデル」の最前線",
+      "url": "https://wired.jp/article/why-researchers-are-turning-to-small-language-models/",
+      "published": "2025-06-02T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/vol56-creating-the-next-industry-toshiba/": {
+      "title": "忠実度「99.99％」への挑戦と、シミュレーションの “二刀流”：量子コンピューティング時代を牽引する日本の大企業たち（2）：東芝",
+      "url": "https://wired.jp/article/vol56-creating-the-next-industry-toshiba/",
+      "published": "2025-03-28T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/first-operating-system-for-quantum-networks/": {
+      "title": "量子ネットワーク向けに設計されたOSが、インターネットの未来を変える",
+      "url": "https://wired.jp/article/first-operating-system-for-quantum-networks/",
+      "published": "2025-03-20T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/vol55-engines-made-to-manipulate-us/": {
+      "title": "擬人化されたエージェントが人々を操り始める──特集「THE WORLD IN 2025」",
+      "url": "https://wired.jp/article/vol55-engines-made-to-manipulate-us/",
+      "published": "2024-12-28T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/fast-forward-gpt-4-minecraft-chatgpt/": {
+      "title": "GPT-4を「マインクラフト」に組み込んでみたら、AIによる自動化の新たな可能性が見えてきた",
+      "url": "https://wired.jp/article/fast-forward-gpt-4-minecraft-chatgpt/",
+      "published": "2023-06-03T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/google-voice-assistant-future/": {
+      "title": "会話型AIは「有害な発言」を抑制できるか：グーグルが新しい言語モデル「LaMDA 2」で挑む課題",
+      "url": "https://wired.jp/article/google-voice-assistant-future/",
+      "published": "2022-05-19T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-membership/2021/07/21/persuading-the-body-to-regenerate-its-limbs/": {
+      "title": "生体電気による「細胞間のインターネット」で失われた手足の再生に挑む（後篇）",
+      "url": "https://wired.jp/article/sz-membership/2021/07/21/persuading-the-body-to-regenerate-its-limbs/",
+      "published": "2021-07-21T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    },
+    "https://wired.jp/article/sz-membership/2021/07/20/persuading-the-body-to-regenerate-its-limbs-1/": {
+      "title": "生体電気による「細胞間のインターネット」で失われた手足の再生に挑む（前篇）",
+      "url": "https://wired.jp/article/sz-membership/2021/07/20/persuading-the-body-to-regenerate-its-limbs-1/",
+      "published": "2021-07-20T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-20T01:31:28.318166+00:00"
+    }
+  },
+  "last_checked": "2026-09-20T01:31:28.318166+00:00",
+  "first_page_count": 20
+}
