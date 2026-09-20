@@ -1,69 +1,98 @@
-# 個人用RSS — ANA 翼の王国 PoC
+# 個人用RSS 統合版 v1.0
 
-このフォルダーの中身をGitHubリポジトリのルートに置くと、ANA「翼の王国」の公開新着一覧を1日1回取得し、RSSをGitHub Pagesで配信できます。**今回動くのはANAのみです。** 他サイトの対象一覧は `TARGETS.md` に残しています。
+GitHub Actions + Python + GitHub Pages。毎朝 **日本時間6:17頃** に9本のRSSを更新します。ANA PoCのRSS URL・記事ID・履歴を引き継ぎます。
 
-## 最短の始め方（PCへのPython導入不要）
+## 今回の更新操作
 
-1. ZIPをダウンロードしてWindowsで「すべて展開」します。
-2. [GitHubで新規リポジトリを作成](https://github.com/new)します。名前は `my-rss`、公開範囲は **Public**、READMEを追加して作成します。この無料構成ではコード・取得履歴・RSSが公開されます。公開してよい新着メタデータのみを扱います。
-3. リポジトリの **Add file → Upload files** を開き、展開した `my-rss` の**中身**をドラッグしてアップロードします。`my-rss` フォルダーごと置かず、直下に `update.py` と `config`、`tests`、`.github` などが並ぶ形にしてください。ZIPそのもののアップロードでは動きません。
-4. **Commit changes** で保存します。GitHub上に `.github/workflows/update.yml` があることを確認してください。ブラウザのアップロードでこのフォルダーが抜けた場合は、**Add file → Create new file** でファイル名に `.github/workflows/update.yml` を指定し、同梱ファイルの内容を貼って保存します。
-5. **Settings → Pages → Build and deployment → Source** を **GitHub Actions** にします。提案される別のワークフローを新規作成する必要はありません。
-6. **Actions → Update RSS → Run workflow → Run workflow** を押します。既定ブランチ（通常 `main`）で実行してください。Actionsの有効化画面が出たら有効にします。
-7. 実行が緑色になるまで待ちます。`build` と `deploy` の両方が成功すると公開完了です。初回は数分かかる場合があります。
-8. **Settings → Pages** の公開URLを開き、「ANA 翼の王国・新着記事（非公式）」のリンク先をコピーしてInoreaderのフィード追加欄に貼り付けます。
+1. ZIPを展開し、`my-rss` フォルダーの**中身**を、既存の [my-rss](https://github.com/kankitagawa/my-rss) に **Add file → Upload files** で上書きします。リポジトリのルートに `update_all.py`、`feedkit.py`、`config`、`tests` がある配置にします。ZIP自体はアップロードしません。
+2. `.github/workflows/update.yml` も同梱の新しい内容に置き換えます。アップロードできない場合は、GitHubで既存ファイルを開き鉛筆ボタン（Edit）から全文を置き換え、**Commit changes**。フォルダーがまだなければ **Add file → Create new file** でパスを入力します。
+3. **既存の `state` フォルダーは削除・上書きしません。** ZIPには実運用の履歴を含めていません。`state/ana.json` が残っていれば自動移行します。ANAのInoreader登録をやり直す必要はありません。
+4. Pages設定は変更せず、**Actions → Update RSS → Run workflow** を1回実行します。追加ライブラリは自動でインストールされるため、PC側でのPython導入は不要です。
+5. `build`、`deploy`、`check-results` が緑色になったら [公開ページ](https://kankitagawa.github.io/my-rss/) を開き、追加RSSをInoreaderへ登録します。公開ページのOPMLから一括登録も可能です（ANAは登録済みなので重複登録に注意）。
 
-通常のRSS URLは `https://あなたのGitHubユーザー名.github.io/my-rss/feeds/ana.xml` です。リポジトリ名や独自ドメインで変わるので、Pagesの公開画面から確認するのが確実です。
+**重要：古い `update.yml` のままではANAだけが更新されます。** 新版では実行コマンドが `python update_all.py`、ジョブが3個になります。
 
-アカウント名・URLをコードへ手入力する必要はありません。公開URLはGitHub側の設定から自動で取得します。パスワード、APIキー、Personal Access Tokenも不要です。
+## RSS一覧
 
-## 動作の説明
+| 対象 | RSSファイル | 取得方法 |
+|---|---|---|
+| ANA 翼の王国 | `ana.xml`（従来と同じ） | 公開WordPress API、30件ずつ |
+| 国内の新着旅行記 | `4travel-domestic.xml` | 新着一覧と「もっと見る」。旅行日ではなく投稿日を使用 |
+| 海外の新着旅行記 | `4travel-overseas.xml` | `category=new` を指定。人気順を混ぜない |
+| JazzTokyo全ライター | `jazztokyo.xml` | Columnカテゴリーのライター横断一覧。著者名も収録 |
+| 松和「日記・コラム・つぶやき」 | `matsuwa.xml` | 既存RSSのカテゴリー抽出。履歴と重ならないときはカテゴリーHTMLも取得 |
+| WIRED Computer Science | `wired-computer-science.xml` | タグ一覧。広告枠を除外 |
+| J SPORTS カープ新着 | `jsports-carp.xml` | タグ一覧を巡回。未取得記事のみ詳細ページで日付を補完 |
+| カープ愛倶楽部・限定コラム全体 | `jsports-loveclub.xml` | ログイン前に見えるタイトル・リンク・日付のみ |
+| カープ愛倶楽部・ふゆっぴコラム | `jsports-fuyuka.xml` | 上記ページの `#fuyukacolumn` だけ |
 
-- 毎日日本時間06:17頃に1回起動。GitHubの混雑で遅延・実行欠落が起きる可能性があり、正確な時刻は保証されません。
-- 通常のHTTPで新着欄だけを取得。記事本文や画像は配信せず、公開タイトル・リンク・日付だけをRSS化します。
-- 記事URLを固定IDとして使用。既知記事はタイトルを修正してもIDと公開日を保持し、新規記事として作り直しません。Inoreaderでの表示・既読挙動は登録後に実測します。
-- 初回は新着欄に掲載されている記事を取り込みます。過去全記事の収集ではありません。RSSは最大100件、URLとメタデータの履歴は `state/ana.json` に蓄積します。
-- 新着欄から消えた記事も履歴に残します。ただし、巡回間に掲載されて消えた記事は拾えません。現段階ではANA先頭の新着欄だけが対象です。
-- 0件、日付欠損、不正なリンク、前回比で半分未満の件数ではエラー停止。公開済みRSSは更新されません。
-- 履歴をGitHubへ保存してから公開します。公開だけが失敗した場合も次回は履歴から全RSSを作り直せます。
-- `last_checked` を実行ごとに履歴へ保存します。履歴ファイルを消すと新規判定がリセットされるため、通常は削除しません。
-- 1サイトのPoCなので専用HTML解析処理です。今後、サイト別アダプターやCSSセレクター設定へ拡張します。
+RSS URLは `https://kankitagawa.github.io/my-rss/feeds/ファイル名`。
+「限定コラム全体」にはふゆっぴの記事も含まれます。両方を購読すると同じ記事が2つのフィードに出ます。
 
-## エラーが出たら
+「週末大冒険」は既存RSSをInoreaderに直接登録済みのため、本システムでは再配信しません。
 
-**Actions → 失敗した実行 → build または deploy → 赤いステップ** を開き、エラー部分をこのチャットに送ってください。
+## 差分・保持・初回動作
 
-| エラーの場所 | 確認すること |
-|---|---|
-| Configure Pages | Settings → PagesのSourceがGitHub Actionsか |
-| Save history（403） | Settings → Actions → GeneralのWorkflow permissions、組織の制限、既定ブランチへの書込み制限。個人用の新規リポジトリを想定。ブランチ保護を一律解除せず、エラーを共有してください |
-| Generate RSS（HTTP 403等） | この実行環境からのアクセスが拒否された可能性。ログを共有してください |
-| Generate RSS（件数低下等） | サイト構造変更や一時的な取得異常。自動で前回結果を消しません |
-| Deploy | Pagesとgithub-pages環境の設定、実行の権限を確認 |
+- 記事URLを固定IDとして履歴と照合し、未取得記事を追加します。既知記事はタイトル・著者の修正のみ反映し、GUIDと公開日は維持します。
+- URL・タイトル・公開日などの履歴は `state/*.json` に保存し、自動で削除しません。
+- RSSには公開日順の最新500件（旅行記は1,000件）と、**初めて取得してから30日以内の記事すべて**を収録します。大量更新でも新着が件数上限で即座に消えない仕組みです。30日を過ぎても最新件数以内なら残ります。
+- ANA・旅行記・J SPORTSタグ一覧は初回1ページ分から開始します。その後、前回確認済みの記事が累計3件見つかるまで、または一覧の終端まで巡回します（履歴が3件未満なら履歴件数を使用）。記事の追加でページ境界がずれても停止できます。
+- ANAはPoCからの初回移行時に30件取得します。既存6件はそのまま保持し、残り24件が追加される見込みです。PoC時の午前0時の公開日は既知記事で維持します。
+- ページ分割しない一覧は掲載分を初回にまとめて取り込みます。**JazzTokyoは初回854件、限定コラム全体は221件**を今回の検証で取得しました。初回の未読件数が多くなることは想定どおりです。
+- 作者別ページから記事一覧を作り直す必要はなく、JazzTokyoの既存の横断一覧を使います。記事の公開日で全著者をまとめて並べます。
+- 閲覧用の画像・本文は配信しません。限定記事の本文はリンク先で通常どおりログインして読みます。Cookieやパスワードの設定は不要です。
 
-再実行は **Run workflow** で行えます。修正ファイルをアップロードしただけでは実行しない設計です。
-Actionsの失敗通知はGitHubアカウントの通知設定に依存します。独自のメール送信は実装していません。
-公開リポジトリでは60日間活動がないと定期実行が無効になる仕様があります。長期間更新されない場合はActions画面で有効状態を確認し、必要に応じて再有効化してください。
+## 取りこぼしに関する実際の範囲
 
-## 任意：Windowsで先に確認
+毎日チェックできた公開一覧・API内の未取得記事を追加します。初回より前の全アーカイブ収集、削除済み記事、公開一覧から外れた記事、サイト側で遡れない期間までの完全回収は保証しません。
 
-Python 3.11以上がある場合、展開フォルダー `my-rss` でPowerShellを開きます。
+- フォートラベルの新着リストにはサイト側の掲載範囲があります。「もっと見る」が終わった場合、全過去記事が存在するとは限りません。
+- WIREDは現在取得できるタグ一覧20件、限定コラムは現在の公開一覧、JazzTokyoは現在のColumn横断一覧が対象です。
+- 巡回上限は通常20ページ（J SPORTSは10ページ）。上限に達したらそのサイトはエラーにし、履歴を進めません。次回以降も再試行可能です。必要なら `config/sites.json` の `max_pages` を増やします。
+- 過去の取得履歴と現在の一覧が一切重ならない場合は、公開ページに注意を表示します。サイトから消えた記事や既知URLの後ろに後日挿入された記事まで完全検知するものではありません。
+
+## 一部のサイトが失敗した場合
+
+そのサイトの状態を更新せず、履歴から前回のRSSを再構成します。他サイトは取得・公開を続けます。
+初回取得に失敗して履歴がない対象はRSSリンクを出さず「初回取得待ち」と表示します。
+取得の途中のページが失敗した場合にも、そのサイトの履歴を途中まで進めません。
+
+公開後に `check-results` が赤色になります。これは「成功分を公開できたが、一部サイトが失敗」の意味です。公開ページの状態・備考、Actionsの `Generate RSS` を確認してください。
+`warning` は履歴との重なりがない等の注意、`error` はそのサイトの更新失敗です。通知メールの有無はGitHubアカウントの通知設定によります。
+
+履歴自体が壊れている場合は全体を停止し、既存の公開サイトを維持します。履歴を空として扱って既存RSSを消すことはしません。
+
+## ファイル構成
+
+- `update_all.py`：全対象の実行・失敗分の保持・公開ページとOPMLの生成
+- `feedkit.py`：取得・サイト別抽出・差分・RSS生成
+- `config/sites.json`：対象、CSSセレクター、件数、巡回上限
+- `.github/workflows/update.yml`：毎日実行・履歴コミット・Pages公開・失敗表示
+- `requirements.txt`：検証したライブラリのバージョン
+- `tests/test_multi.py`：差分・移行・失敗分離・ページ巡回等のテスト
+- `update.py` / `config/ana.json` / `tests/test_update.py`：旧PoC互換用。新ワークフローからは `update_all.py` を使用
+- `state/`：GitHub側で既存ファイルを保持、新サイトの分は自動生成
+- `public/`：実行時に生成、Pagesへ渡す。GitHubへのソース配置には不要
+
+## 任意：PCで確認
+
+Python 3.12で、展開した `my-rss` 内から実行します。
 
 ```powershell
+py -3 -m pip install -r requirements.txt
 py -3 -m unittest discover -s tests -v
-py -3 update.py
-py -3 update.py
+py -3 update_all.py --base-url https://kankitagawa.github.io/my-rss
 ```
 
-追加ライブラリのインストールは不要です。1回目の `new` は取得記事数、変化がなければ2回目は `new=0` になります。出力は `public/feeds/ana.xml`。ローカルの確認結果をGitHubへアップロードする必要はありません。GitHubへ配置するのは同梱のプログラム・設定・テストです。
+ローカルで生成した `state` を実運用リポジトリへ上書きしないでください。
 
-## 無料運用の前提と参考
+## 運用とサービス仕様
 
-GitHub Freeの公開リポジトリ、標準Ubuntuランナー、GitHub Pagesを使用します。有料ランナーや独自サーバーは使いません。サービス仕様変更時には再確認が必要です。
+GitHub Freeの公開リポジトリ・標準Ubuntuランナー・Pagesを使用。課金サービスや常時稼働PCは不要です。スケジュールは遅延・欠落する可能性があります。60日活動がない公開リポジトリは定期実行が無効になる仕様があるため、長期に更新されないときはActions画面も確認してください。
+既存PoCで表示されたActionsのNode.js非推奨警告は外部アクション由来です。本版では実績のあるPagesアクション版を維持しています。失敗扱いではありませんが、提供元の更新に合わせて今後見直します。
 
-- [Pagesの公開範囲・公式ワークフロー](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
-- [Actionsの料金](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
-- [定期実行の制約](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
-- [取得元：ANA 翼の王国](https://tsubasa.ana.co.jp/)
+- [GitHub Pagesワークフロー](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+- [GitHub Actions料金](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
+- [定期実行の仕様](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
 
-GitHub Actionsでの本番実行、Pages公開、Inoreaderでの購読はユーザーのリポジトリへ配置後に確認します。
+今回のローカル検証結果は `VERIFICATION.md`。全9サイト版のGitHub Actions・Inoreader確認は上書き配置後に行います。
