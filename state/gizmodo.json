@@ -721,8 +721,225 @@
       "published": "2026-09-23T01:00:00+00:00",
       "author": "",
       "first_seen": "2026-09-23T23:42:31.229999+00:00"
+    },
+    "https://www.gizmodo.jp/article/openai-releases-new-gpt-6-sol-and-luna-models-sells-them-as-mini-astras/": {
+      "title": "OpenAIがGPT-6 SolとLunaを発表。｢ミニAstra｣をお手頃価格で",
+      "url": "https://www.gizmodo.jp/article/openai-releases-new-gpt-6-sol-and-luna-models-sells-them-as-mini-astras/",
+      "published": "2026-09-24T23:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/gizmart-nape-pro-re/": {
+      "title": "キーボードに添えるだけ。ホームポジションの常識を変えるトラックボール「Nape Pro」",
+      "url": "https://www.gizmodo.jp/article/gizmart-nape-pro-re/",
+      "published": "2026-09-24T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/": {
+      "title": "船の燃料、重油から水素へ。大型船向け「水素エンジン」で排ガスも95%減らせます",
+      "url": "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/",
+      "published": "2026-09-24T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/": {
+      "title": "どんな一台も電動アシスト化。ホンダ「SmaChari」で愛車選びが変わりそう",
+      "url": "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/",
+      "published": "2026-09-24T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-muse-charm/": {
+      "title": "Meta Connect 2026の最後に出てきた、謎のAIデバイス。たまごっちみたいな「Muse Charm」が気になる",
+      "url": "https://www.gizmodo.jp/article/2609-meta-muse-charm/",
+      "published": "2026-09-24T13:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/": {
+      "title": "新型Apple Watchのバグに困ってる人。最新アップデートで修正されるよ",
+      "url": "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/",
+      "published": "2026-09-24T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-ray-ban-display-features-and-update/": {
+      "title": "「ディプレイ付きMeta Ray-Ban」もできることマシマシ！販売地域拡大も、日本はまだ...？",
+      "url": "https://www.gizmodo.jp/article/2609-meta-ray-ban-display-features-and-update/",
+      "published": "2026-09-24T12:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/meta-introduces-audio-only-smart-glasses-to-avoid-the-perv-problem/": {
+      "title": "安心してください。カメラなしですよ！「Ray-Ban Meta Audio」発表",
+      "url": "https://www.gizmodo.jp/article/meta-introduces-audio-only-smart-glasses-to-avoid-the-perv-problem/",
+      "published": "2026-09-24T12:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-moft-dynamic-folio-iphone-duo/": {
+      "title": "iPhone Duoが立つ、左右どっちでも持てる。そう、MOFTならね",
+      "url": "https://www.gizmodo.jp/article/2609-moft-dynamic-folio-iphone-duo/",
+      "published": "2026-09-24T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-ray-ban-meta-audio/": {
+      "title": "カメラをなくして、もっと軽く。新しく登場した「Ray-Ban Meta Audio」は音で使うAIグラス",
+      "url": "https://www.gizmodo.jp/article/2609-ray-ban-meta-audio/",
+      "published": "2026-09-24T12:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/": {
+      "title": "「大学の意味」をa16zが本気で問う。学費タダ、講師はOpenAIとNVIDIAのトップって…",
+      "url": "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/",
+      "published": "2026-09-24T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/": {
+      "title": "Meta VR Glasses発表、早速触ってきた！ デカいヘッドセットではなく軽いスマートグラス",
+      "url": "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
+      "published": "2026-09-24T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/": {
+      "title": "REALFORCEがついに左右分割。慣れたJIS配列の「RS1」はマウス操作もできる",
+      "url": "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/",
+      "published": "2026-09-24T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/": {
+      "title": "サービスよすぎですよ。最新M6 Mac miniが5％オフは衝撃だ…",
+      "url": "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
+      "published": "2026-09-24T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/": {
+      "title": "ポムポムプリンの耳でゲームします。Razerのヘッドセットがかわいさ全開",
+      "url": "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/",
+      "published": "2026-09-24T09:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/c4c5bec4-773d-419b-adf9-0d51004b716e/": {
+      "title": "Ray-Ban Metaスマートグラスの第3世代が発表。7万8980円からで日本でも買えるよ",
+      "url": "https://www.gizmodo.jp/article/c4c5bec4-773d-419b-adf9-0d51004b716e/",
+      "published": "2026-09-24T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price2/": {
+      "title": "iPhone 18 Pro、iPhone Duoの楽天、ソフトバンク、au、ドコモでの本体価格・キャンペーンまとめ（9/24更新）",
+      "url": "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price2/",
+      "published": "2026-09-24T07:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/": {
+      "title": "もっと薄く、長く、聞き取りやすく。新しくなった「Ray-Ban Meta（Gen 3）」は何が変わった？",
+      "url": "https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/",
+      "published": "2026-09-24T07:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-keyboard-smartphone-clicks-communicator/": {
+      "title": "これからは折りたたみスマホじゃない。キーボード付きスマホが覇権を握るかもしれない",
+      "url": "https://www.gizmodo.jp/article/2609-keyboard-smartphone-clicks-communicator/",
+      "published": "2026-09-24T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-keyboard-stand-with-storage/": {
+      "title": "キーボードの下、空いてませんか？ 角度を付けたら小物の収納場所までできた",
+      "url": "https://www.gizmodo.jp/article/2609-keyboard-stand-with-storage/",
+      "published": "2026-09-24T05:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-yamaha-gigmii/": {
+      "title": "見知らぬ誰かとセッションできる。ヤマハの音楽共創アプリ「gigmii」",
+      "url": "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
+      "published": "2026-09-24T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/": {
+      "title": "Appleのヘルス部門で人員削減、ライバルに負けないフィットネスアプリ誕生の布石？",
+      "url": "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
+      "published": "2026-09-24T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/": {
+      "title": "OpenAI、CEOの個人的感情でスマートグラス参入に｢ノー｣",
+      "url": "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/",
+      "published": "2026-09-24T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/": {
+      "title": "イルカが貝殻を使って魚を捕食する様子、動画として初めて記録される",
+      "url": "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
+      "published": "2026-09-24T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/": {
+      "title": "ノートパソコンの価格は、もう元には戻らない",
+      "url": "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/",
+      "published": "2026-09-24T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/": {
+      "title": "Questとは何が違う？ Metaの人に聞いた「VRグラス」を作った本当の理由",
+      "url": "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/",
+      "published": "2026-09-24T02:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/sanwa-fire-prevention-tap/": {
+      "title": "「コンセント火災」マジで怖いから。消火シート入り電源タップで予防しよう",
+      "url": "https://www.gizmodo.jp/article/sanwa-fire-prevention-tap/",
+      "published": "2026-09-24T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/alleged-20th-anniversary-iphone-screen-sizes-have-leaked/": {
+      "title": "新iPhone、本気のリリースは来年？ 20周年モデルは3つの大改革の噂",
+      "url": "https://www.gizmodo.jp/article/alleged-20th-anniversary-iphone-screen-sizes-have-leaked/",
+      "published": "2026-09-24T01:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-glasses-lisa-collaboration/": {
+      "title": "Meta Glasses×LISAのコラボコレクションが本命すぎる。ランダムでチャームも付いてきます",
+      "url": "https://www.gizmodo.jp/article/2609-meta-glasses-lisa-collaboration/",
+      "published": "2026-09-24T00:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/new-meta-glasses/": {
+      "title": "249ドルから買えるAIグラス。新しい「Meta Glasses」がかわいすぎて選べない",
+      "url": "https://www.gizmodo.jp/article/new-meta-glasses/",
+      "published": "2026-09-24T00:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.gizmodo.jp/article/meta-vr-glasses_news/": {
+      "title": "ついに来た！ VRデバイスなのに約100g。メガネ型の「Meta VR Glasses」を現地で試してみた",
+      "url": "https://www.gizmodo.jp/article/meta-vr-glasses_news/",
+      "published": "2026-09-24T00:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-24T23:53:22.752471+00:00"
     }
   },
-  "last_checked": "2026-09-23T23:42:31.229999+00:00",
+  "last_checked": "2026-09-24T23:53:22.752471+00:00",
   "first_page_count": 16
 }
