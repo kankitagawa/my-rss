@@ -238,8 +238,22 @@
       "published": "2026-09-23T23:45:08+00:00",
       "author": "Ryan Phillips",
       "first_seen": "2026-09-24T23:53:22.752471+00:00"
+    },
+    "https://www.si.com/mlb/si-am-whats-at-stake-mlb-final-weekend": {
+      "title": "SI:AM | What’s at Stake on MLB’s Final Weekend",
+      "url": "https://www.si.com/mlb/si-am-whats-at-stake-mlb-final-weekend",
+      "published": "2026-09-25T12:51:10+00:00",
+      "author": "Dan Gartland",
+      "first_seen": "2026-09-25T23:57:13.762299+00:00"
+    },
+    "https://www.si.com/mlb/ranking-pitching-rotations-2026-postseason-contenders": {
+      "title": "Ranking Pitching Rotations for MLB’s 14 Postseason Contenders",
+      "url": "https://www.si.com/mlb/ranking-pitching-rotations-2026-postseason-contenders",
+      "published": "2026-09-25T11:00:02+00:00",
+      "author": "Karl Rasmussen",
+      "first_seen": "2026-09-25T23:57:13.762299+00:00"
     }
   },
-  "last_checked": "2026-09-24T23:53:22.752471+00:00",
+  "last_checked": "2026-09-25T23:57:13.762299+00:00",
   "first_page_count": 20
 }
