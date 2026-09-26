@@ -1234,7 +1234,7 @@
       "first_seen": "2026-09-23T23:42:31.229999+00:00"
     },
     "https://www.hb-nippon.com/articles/17571": {
-      "title": "遠軽と北見柏陽が準決勝に進出！北海道・北見支部【26年秋高校野球】",
+      "title": "網走南ケ丘と遠軽の決戦へ！北海道・北見支部【26年秋高校野球】",
       "url": "https://www.hb-nippon.com/articles/17571",
       "published": "2026-09-23T00:00:00+09:00",
       "author": "",
@@ -2086,8 +2086,323 @@
       "published": "2026-09-25T00:00:00+09:00",
       "author": "",
       "first_seen": "2026-09-25T23:57:13.762299+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17721": {
+      "title": "｢またサヨナラ負け？！｣中日が4連敗で最下位転落…山田哲人に痛恨被弾、屈辱のセ・リーグ最速80敗",
+      "url": "https://www.hb-nippon.com/articles/17721",
+      "published": "2026-09-27T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17722": {
+      "title": "秋季埼玉県大会は27日にシード登場！花咲徳栄、浦和学院がベスト16入りをかけて初戦に臨む【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17722",
+      "published": "2026-09-27T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17720": {
+      "title": "27日に神奈川準決勝！関東大会切符をかけ、シード横浜、慶応に、ノーシード2校が挑む【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17720",
+      "published": "2026-09-27T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17719": {
+      "title": "27日に和歌山で大一番！智弁和歌山VS市和歌山、4強入りをかけたサバイバル戦【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17719",
+      "published": "2026-09-27T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17718": {
+      "title": "【中国大会出場】島根からは大社と石見智翠館がともに逆転勝ちで進出！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17718",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17716": {
+      "title": "【鳥取】米子東と鳥取城北が決勝進出！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17716",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17715": {
+      "title": "【全道大会出場一覧】連覇狙う北照をはじめ、17年ぶりの苫小牧工、初出場の足寄など7校が切符！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17715",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17710": {
+      "title": "「竜の未来きた」中日・森 駿太がプロ初本塁打 昇格即スタメンで先制3ランに竜党興奮",
+      "url": "https://www.hb-nippon.com/articles/17710",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17714": {
+      "title": "武修館と中標津が全道大会かけた決勝へ！北海道・釧根支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17714",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17713": {
+      "title": "【全道大会出場】足寄が初出場！白樺学園は2年連続の進出！北海道・十勝支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17713",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17712": {
+      "title": "秋季北海道大会・名寄支部が開幕！士別翔雲、稚内大谷が初戦突破で27日の代表決定戦へ【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17712",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17711": {
+      "title": "旭川龍谷と旭川志峯がBブロックの代表決定戦へ！秋季北海道大会・旭川支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17711",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17709": {
+      "title": "クラーク国際と岩見沢緑陵が全道進出をかけた決勝へ！北海道・空知支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17709",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17708": {
+      "title": "【札幌支部・代表決定戦一覧】北海がコールド勝ち！各ブロック代表決定戦進出校が決定！【26年秋高校野球・北海道】",
+      "url": "https://www.hb-nippon.com/articles/17708",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17707": {
+      "title": "【全道大会出場】苫小牧工が17年ぶり、苫小牧中央が3年ぶりに進出！北海道・室蘭支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17707",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17706": {
+      "title": "【全道大会出場】函館大柏稜が5年連続、函館大有斗が2年連続で進出！北海道・函館支部【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17706",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17692": {
+      "title": "【宮崎8強決定】日南学園はコールド、延岡学園は逆転で名乗り！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17692",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17691": {
+      "title": "【大分8強入り】大分商、別府翔青が逆転勝ちで進出！情報科学はシード校を撃破！1試合が継続試合に【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17691",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17690": {
+      "title": "【長崎8強入り】創成館が延長10回逆転サヨナラで一番乗り！その他は継続試合、順延に【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17690",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17688": {
+      "title": "【愛媛8強入り】済美、丹原などが進出！松山商VS新田などは順延！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17688",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17689": {
+      "title": "【高知4強入り】明徳義塾が高知農を完封！小津がコールド勝ちで進出！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17689",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17687": {
+      "title": "【徳島4強入り】阿南光が逆転で2年連続、城南が11年ぶりに進出！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17687",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17693": {
+      "title": "【沖縄8強入り】沖縄尚学がコールド！エナジックスポーツが興南に逆転勝ち【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17693",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17686": {
+      "title": "【広島8強入り】広陵がコールド勝ちで広島商のセンバツは絶望的、呉も進出！3試合が継続試合、3試合が中止順延に【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17686",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17683": {
+      "title": "【和歌山4強入り】和歌山東が9回サヨナラで2年ぶり、那賀が完封で15年ぶりの準決勝へ【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17683",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17673": {
+      "title": "【山梨】山梨学院ＶＳ日本航空は山梨学院が逆転直後に継続試合となって27日に【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17673",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17682": {
+      "title": "【大阪8強入り】金光大阪、大阪学院大などが5校が進出！大阪桐蔭、履正社などの3試合は雨天中止で27日に順延！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17682",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17697": {
+      "title": "【北信越大会出場】長野からは松商学園が3年ぶり、上田西が逆転で2年連続の進出！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17697",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17678": {
+      "title": "【北信越大会出場】福井では福井商が逆転で2年連続、北陸がリベンジで3年ぶりに名乗り！敦賀気比は3位決定戦へ【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17678",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17677": {
+      "title": "【北信越大会出場】石川からは小松大谷が完封リレーで4年連続、金沢は逆転で2年ぶりの進出決定！星稜は3位決定戦へ【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17677",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17676": {
+      "title": "【北信越大会出場】富山では富山商が2年連続、高岡第一が4年連続で切符！ともにコールド勝ち！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17676",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17694": {
+      "title": "【東北大会出場】岩手では花巻東がコールドで3年連続、盛岡中央が2年連続の出場へ！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17694",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17671": {
+      "title": "【東北大会出場】山形からは鶴岡東と山形学院がともにコールドで勝利して切符！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17671",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17681": {
+      "title": "【東海大会切符】三重では近大高専が3位で7年ぶりの切符！決勝は雨天中止で27日に順延【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17681",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17679": {
+      "title": "【東海大会出場】静岡では掛川西が3位決定戦を制し、3年連続で進出！日大三島が5年ぶりの優勝【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17679",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17705": {
+      "title": "星稜が逆転負けで3位決定戦へ…3ランでリード奪うも金沢に反撃許し1点差敗北【石川】",
+      "url": "https://www.hb-nippon.com/articles/17705",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17703": {
+      "title": "名門・桐蔭学園に高卒プロを視野に置く好ショート現る！精神面の成長に「めちゃくちゃ頼もしい」と指揮官も高評価【神奈川】",
+      "url": "https://www.hb-nippon.com/articles/17703",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17700": {
+      "title": "浦和実が14安打コールドで早大本庄に春のリベンジ！選抜4強世代見て入学した1年生が活躍【埼玉】",
+      "url": "https://www.hb-nippon.com/articles/17700",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17702": {
+      "title": "春日部共栄のエース右腕が10奪三振無四球完投！12安打浴びるも変化球に手応え【埼玉】",
+      "url": "https://www.hb-nippon.com/articles/17702",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17695": {
+      "title": "「信じられない神ドラフト」巨人2023年ドラフト組の評価が急上昇！エース候補、正遊撃手、レギュラー外野手などを一挙獲得！",
+      "url": "https://www.hb-nippon.com/articles/17695",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17698": {
+      "title": "【京都】西城陽が逆転勝利！一番乗りで、7年ぶりの4強入り！1試合は雨天中止に！【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17698",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17696": {
+      "title": "花巻東がコールドで3年連続の東北大会出場！秋季岩手県大会連覇へ王手【26年秋高校野球】",
+      "url": "https://www.hb-nippon.com/articles/17696",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17666": {
+      "title": "物議を醸した“甲子園10分で退場”から10年…「元祖ユニ姿の女子マネージャー」が女子部員の活躍にエール「頼もしいな」",
+      "url": "https://www.hb-nippon.com/articles/17666",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17670": {
+      "title": "「古巣復帰あるか？」12勝も防御率5割台…ロッキーズ・菅野智之の来季の去就に注目集まる",
+      "url": "https://www.hb-nippon.com/articles/17670",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
+    },
+    "https://www.hb-nippon.com/articles/17684": {
+      "title": "日米通算258セーブ＆204ホールド！オリックス3連覇の守護神・平野佳寿が現役引退...最後は空振り三振で有終の美",
+      "url": "https://www.hb-nippon.com/articles/17684",
+      "published": "2026-09-26T00:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-09-26T23:38:20.132729+00:00"
     }
   },
-  "last_checked": "2026-09-25T23:57:13.762299+00:00",
+  "last_checked": "2026-09-26T23:38:20.132729+00:00",
   "first_page_count": 20
 }
