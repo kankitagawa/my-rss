@@ -1582,8 +1582,211 @@
       "published": "2026-09-28T00:00:00+00:00",
       "author": "",
       "first_seen": "2026-09-29T01:00:03.223390+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-citizen-eco-drive-50th-anniversary/": {
+      "title": "光ある限り充電いらず。「エコ・ドライブ」50周年モデルは近未来ルックス",
+      "url": "https://www.gizmodo.jp/article/2609-citizen-eco-drive-50th-anniversary/",
+      "published": "2026-09-29T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-3coins-hat-clip/": {
+      "title": "外出中に脱いだ帽子の置き場どうする？ 3COINSがダメージなしで解決します",
+      "url": "https://www.gizmodo.jp/article/2609-3coins-hat-clip/",
+      "published": "2026-09-29T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-chatgpt-dots-ai-agent-phone-call/": {
+      "title": "ChatGPTがユーザーに電話をかけてくる。次世代型AIエージェント機能「Dots」",
+      "url": "https://www.gizmodo.jp/article/2609-chatgpt-dots-ai-agent-phone-call/",
+      "published": "2026-09-29T21:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-openai-devday-2026-gameboy-device/": {
+      "title": "OpenAIが作った「ゲームボーイっぽい何か」が欲しすぎる",
+      "url": "https://www.gizmodo.jp/article/2609-openai-devday-2026-gameboy-device/",
+      "published": "2026-09-29T19:25:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-chatgpt-pro-500-ultrafast/": {
+      "title": "ChatGPTに「月500ドル」（8万円弱）のプランが追加に。“8倍速モード”で叩きまくれ",
+      "url": "https://www.gizmodo.jp/article/2609-chatgpt-pro-500-ultrafast/",
+      "published": "2026-09-29T18:55:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-gpt-6-1-sol-openai-devday-2026/": {
+      "title": "OpenAIが「GPT-6.1 Sol」をリリース。高性能×コストカット、実力が気になる",
+      "url": "https://www.gizmodo.jp/article/2609-gpt-6-1-sol-openai-devday-2026/",
+      "published": "2026-09-29T18:25:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-ancient-amazon-city-discovered-by-lidar/": {
+      "title": "ジャングルに潜む2,500年前の古代都市がレーダー技術で発見される",
+      "url": "https://www.gizmodo.jp/article/2609-ancient-amazon-city-discovered-by-lidar/",
+      "published": "2026-09-29T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/zipstrings_arcana_4-re/": {
+      "title": "【販売は9/30まで】遊び方はいろいろ、糸が飛び出る不思議なおもちゃ【解説動画あり】",
+      "url": "https://www.gizmodo.jp/article/zipstrings_arcana_4-re/",
+      "published": "2026-09-29T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/montbell-climabarier-camerap/": {
+      "title": "モンベルの布があれば、自然の中でカメラをもっと楽しめる",
+      "url": "https://www.gizmodo.jp/article/montbell-climabarier-camerap/",
+      "published": "2026-09-29T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/exgel-minipuni/": {
+      "title": "厚み1.4cmがおしりの痛みを解放。A5サイズにたためる携帯クッション",
+      "url": "https://www.gizmodo.jp/article/exgel-minipuni/",
+      "published": "2026-09-29T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-montbell-cooler-box-4l/": {
+      "title": "クーラーボックスって大きすぎる。モンベルの“ちょっとそこまでサイズ”が、私にはちょうど良い",
+      "url": "https://www.gizmodo.jp/article/2609-montbell-cooler-box-4l/",
+      "published": "2026-09-29T11:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/sandisk_extreme_portable_ssd-wto/": {
+      "title": "ポータブルSSDのおかげでiPhoneを安く済ませることができました",
+      "url": "https://www.gizmodo.jp/article/sandisk_extreme_portable_ssd-wto/",
+      "published": "2026-09-29T11:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-montbell-humangear-stax-review/": {
+      "title": "モンベルで見つけた「縦にくっつく小物入れ」。細かいガジェット収納に、気が利くね〜！",
+      "url": "https://www.gizmodo.jp/article/2609-montbell-humangear-stax-review/",
+      "published": "2026-09-29T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/daiso-sensor-light-ball-type/": {
+      "title": "ダイソーの人感センサーライトがワンコインとは思えないデキでした",
+      "url": "https://www.gizmodo.jp/article/daiso-sensor-light-ball-type/",
+      "published": "2026-09-29T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-gizmodo-richard-job-hunting-event/": {
+      "title": "「好き」を仕事にするって、実際どう？ ギズモードのリチャードが「就活のヒント」明かします【10月4日オンライン開催】",
+      "url": "https://www.gizmodo.jp/article/2609-gizmodo-richard-job-hunting-event/",
+      "published": "2026-09-29T10:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-iphone-duo-duo-man-app/": {
+      "title": "iPhone Duoが猛烈に欲しくなった。全部このアプリのせいだ",
+      "url": "https://www.gizmodo.jp/article/2609-iphone-duo-duo-man-app/",
+      "published": "2026-09-29T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/daiso-type-c_rechargeable-battery/": {
+      "title": "ダイソーの「USB-C直挿し充電できる単3電池」がアウトドアの必需品",
+      "url": "https://www.gizmodo.jp/article/daiso-type-c_rechargeable-battery/",
+      "published": "2026-09-29T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-workman-thick-sole-shoes-insole/": {
+      "title": "7cm底上げ魔改造。ワークマンの超厚底シューズとフワフワ中敷きで歩き疲れ解消へ",
+      "url": "https://www.gizmodo.jp/article/2609-workman-thick-sole-shoes-insole/",
+      "published": "2026-09-29T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds/": {
+      "title": "Boseでノイキャンで99ドル？ この有線イヤホン、いいじゃないか",
+      "url": "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds/",
+      "published": "2026-09-29T08:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/esr-iphone18-accessories/": {
+      "title": "美しいiPhone18には、ESRのレザーケースがハマる。気の利いた充電器たちと一緒にそろえておかない？",
+      "url": "https://www.gizmodo.jp/article/esr-iphone18-accessories/",
+      "published": "2026-09-29T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-ugreen-liquid-cooled-mobile-battery/": {
+      "title": "モバイルバッテリーで水の流れを感じられるなんて風流だねぇ",
+      "url": "https://www.gizmodo.jp/article/2609-ugreen-liquid-cooled-mobile-battery/",
+      "published": "2026-09-29T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-mark-cuban-data-center-tips-town-planning-ai-infrastructure-mfk/": {
+      "title": "著名投資家がデータセンター建設で警告…自治体が守れる10項目",
+      "url": "https://www.gizmodo.jp/article/2609-mark-cuban-data-center-tips-town-planning-ai-infrastructure-mfk/",
+      "published": "2026-09-29T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/a42a326c-7d41-4d53-8333-772b9e85cea7/": {
+      "title": "孫も大注目。スーツケースに変形するシニアカー",
+      "url": "https://www.gizmodo.jp/article/a42a326c-7d41-4d53-8333-772b9e85cea7/",
+      "published": "2026-09-29T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-ios-27-0-1-released-and-face-id-bug-fixed/": {
+      "title": "iOS 27.0.1公開。iPhone 18 Proの再起動バグが直ったよ！",
+      "url": "https://www.gizmodo.jp/article/2609-ios-27-0-1-released-and-face-id-bug-fixed/",
+      "published": "2026-09-29T04:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-elecom-chair-support-desk-work/": {
+      "title": "椅子が合っていないので買い替えたい？ ちょっと待って、その前にできることがある",
+      "url": "https://www.gizmodo.jp/article/2609-elecom-chair-support-desk-work/",
+      "published": "2026-09-29T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-fake-doctor-ai-fraud/": {
+      "title": "韓国はAIにだまされて8.5億円。日本も他人事じゃない「ニセ医師6つのパターン」",
+      "url": "https://www.gizmodo.jp/article/2609-fake-doctor-ai-fraud/",
+      "published": "2026-09-29T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/best_goretex_shoes/": {
+      "title": "雨続きでも台風でも濡れないって最高。最強シューズはGORE-TEXに限る",
+      "url": "https://www.gizmodo.jp/article/best_goretex_shoes/",
+      "published": "2026-09-29T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-mobile-battery-disposal-guide/": {
+      "title": "いらなくなったモバイルバッテリー、何ゴミで出せばいいか覚えてます？",
+      "url": "https://www.gizmodo.jp/article/2609-mobile-battery-disposal-guide/",
+      "published": "2026-09-29T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-roomba-plus-675-combo-review/": {
+      "title": "60℃温水拭きから30,000Pa吸引、AI回避まで。新型ルンバの「全方向進化」を解剖",
+      "url": "https://www.gizmodo.jp/article/2609-roomba-plus-675-combo-review/",
+      "published": "2026-09-29T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-09-30T00:27:24.362541+00:00"
     }
   },
-  "last_checked": "2026-09-29T01:00:03.223390+00:00",
+  "last_checked": "2026-09-30T00:27:24.362541+00:00",
   "first_page_count": 16
 }
