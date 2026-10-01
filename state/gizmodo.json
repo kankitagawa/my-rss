@@ -1785,8 +1785,267 @@
       "published": "2026-09-29T02:00:00+00:00",
       "author": "",
       "first_seen": "2026-09-30T00:27:24.362541+00:00"
+    },
+    "https://www.gizmodo.jp/article/e52ffa0a-e0fa-4189-88da-b4032501d23b/": {
+      "title": "iPhone Duo発売でiPad miniの立ち位置がビミョーに。次の一手はあるのか？",
+      "url": "https://www.gizmodo.jp/article/e52ffa0a-e0fa-4189-88da-b4032501d23b/",
+      "published": "2026-09-30T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/nitori-oil-pot-gin/": {
+      "title": "「油を毎回捨てるのがもったいなくて揚げ物できない問題」はこの丸いので解決できます",
+      "url": "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
+      "published": "2026-09-30T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/": {
+      "title": "体は横に。耳は貸して。ピロースピーカーとAudibleの合わせ技なら、疲れた日も読書が進む",
+      "url": "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
+      "published": "2026-09-30T13:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/": {
+      "title": "ドライヤーを壁に固定したら、ハンズフリーでいろいろできるようになりました",
+      "url": "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
+      "published": "2026-09-30T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-sanders-military-derby/": {
+      "title": "これさえあれば大丈夫。イギリス軍と英国王室が認めた、雨に強いタフすぎる革靴",
+      "url": "https://www.gizmodo.jp/article/2609-sanders-military-derby/",
+      "published": "2026-09-30T12:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/": {
+      "title": "世界一気候災害に強い都市はシカゴ。日本は暑さに弱すぎる",
+      "url": "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/",
+      "published": "2026-09-30T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/": {
+      "title": "おれんちのWi-Fi強いぜ？ 電波でバトる「AIRバトラー」",
+      "url": "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/",
+      "published": "2026-09-30T12:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/": {
+      "title": "古（いにしえ）のストーブがカセットガスで大進化。やかんも載るよ",
+      "url": "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/",
+      "published": "2026-09-30T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/": {
+      "title": "ジュースでもお茶でもOK。水分さえあれば2秒後に光るLEDライト",
+      "url": "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/",
+      "published": "2026-09-30T11:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-apple-vision-pro-next-gen-uncertain/": {
+      "title": "Apple Vision Pro次世代モデル、スマートグラス盛況で虫の息",
+      "url": "https://www.gizmodo.jp/article/2609-apple-vision-pro-next-gen-uncertain/",
+      "published": "2026-09-30T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/montbell-od-compact-dripper/": {
+      "title": "モンベルのドリッパーが、外で淹れたてのコーヒーを味わうのにちょうど良い",
+      "url": "https://www.gizmodo.jp/article/montbell-od-compact-dripper/",
+      "published": "2026-09-30T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/water-battery-30-years-enervenue/": {
+      "title": "火事の心配なく30年持つ「水系電池」がいよいよ量産に",
+      "url": "https://www.gizmodo.jp/article/water-battery-30-years-enervenue/",
+      "published": "2026-09-30T09:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/matador-earplugs/": {
+      "title": "旅先の「ちょい寝」は、これひとつ。アイマスクと耳栓が手のひらサイズにまとまった",
+      "url": "https://www.gizmodo.jp/article/matador-earplugs/",
+      "published": "2026-09-30T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/": {
+      "title": "来年の東京、GOで呼んだタクシーに運転手はいないかも",
+      "url": "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/",
+      "published": "2026-09-30T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/": {
+      "title": "清掃力なら断然ローラーモップ。特にエコバックスの最新型は進化ぶりもすごい",
+      "url": "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
+      "published": "2026-09-30T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/": {
+      "title": "撮影ランプを隠したら録画は止まる？ Metaの人に、AIグラスの盗撮対策どう考えてるか聞いてきた",
+      "url": "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/",
+      "published": "2026-09-30T07:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/adlens_do-lifeone_eyewear/": {
+      "title": "遠視も近視もこの1本で。見たいものにピントを合わせられるメガネ",
+      "url": "https://www.gizmodo.jp/article/adlens_do-lifeone_eyewear/",
+      "published": "2026-09-30T06:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/h-concept_canary-whistle_review/": {
+      "title": "止まり木に佇むカナリアは災害時に大活躍",
+      "url": "https://www.gizmodo.jp/article/h-concept_canary-whistle_review/",
+      "published": "2026-09-30T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-eneloop-usb-c-charger/": {
+      "title": "エネループ充電器にUSB-Cタイプ登場。デスクで充電し放題",
+      "url": "https://www.gizmodo.jp/article/2609-eneloop-usb-c-charger/",
+      "published": "2026-09-30T05:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/mit-edible-battery-capsule/": {
+      "title": "「飲んで溶ける電池」をMITが発明。医療がもっとパーソナルになる",
+      "url": "https://www.gizmodo.jp/article/mit-edible-battery-capsule/",
+      "published": "2026-09-30T05:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/": {
+      "title": "OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も",
+      "url": "https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/",
+      "published": "2026-09-30T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/": {
+      "title": "トランプがAIを「スーパーインテリジェンス」に改名。「これからはSIって呼ぼうぜ」と国連で叫ぶ",
+      "url": "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/",
+      "published": "2026-09-30T05:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/": {
+      "title": "エンボス加工の印字がクセになる。“ダイモ”の製造マシンでシール職人になっちゃお",
+      "url": "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/",
+      "published": "2026-09-30T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-windows11-movable-taskbar-update/": {
+      "title": "「動かせるタスクバー」が帰ってきた！ Windows11に待望のアップデート",
+      "url": "https://www.gizmodo.jp/article/2609-windows11-movable-taskbar-update/",
+      "published": "2026-09-30T04:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-googlebook-wait-for-updates/": {
+      "title": "Googlebook、発売直後は待ちでいいかも…。今後のアップデートに期待",
+      "url": "https://www.gizmodo.jp/article/2609-googlebook-wait-for-updates/",
+      "published": "2026-09-30T04:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/lithium-sulfur-battery-third-electron/": {
+      "title": "硫黄1kgでスマホ100台。リチウムイオンならぬリチウム“イオウ”電池、容量58%増に成功",
+      "url": "https://www.gizmodo.jp/article/lithium-sulfur-battery-third-electron/",
+      "published": "2026-09-30T04:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/linka-heatedbrush/": {
+      "title": "前髪のためにヘアアイロン持ってくの、やめました。スマホサイズのヒートブラシ",
+      "url": "https://www.gizmodo.jp/article/linka-heatedbrush/",
+      "published": "2026-09-30T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/vr-headsets-are-so-cooked/": {
+      "title": "VRトレンドは「ヘッドセット」から「スマートグラスへ」。その圧倒的メリットとは？",
+      "url": "https://www.gizmodo.jp/article/vr-headsets-are-so-cooked/",
+      "published": "2026-09-30T03:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/apple-tv-4k-4th-generation-leak/": {
+      "title": "Apple TV 4Kの新型に関する情報がリーク",
+      "url": "https://www.gizmodo.jp/article/apple-tv-4k-4th-generation-leak/",
+      "published": "2026-09-30T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-screenless-health-tracker-trend/": {
+      "title": "ヘルストラッカーのトレンドは画面なしへ。みんなスマートウォッチに疲れてる？",
+      "url": "https://www.gizmodo.jp/article/2609-screenless-health-tracker-trend/",
+      "published": "2026-09-30T03:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/3coins_magnetic-holder/": {
+      "title": "3COINSで見つけた浮かせる収納。550円で「リモコンどこ？」が激減",
+      "url": "https://www.gizmodo.jp/article/3coins_magnetic-holder/",
+      "published": "2026-09-30T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/excel-multiple-values-one-cell/": {
+      "title": "Excelのセルに40年ぶり大改革！カンマで区切ってごまかしてた人がやっと報われる…",
+      "url": "https://www.gizmodo.jp/article/excel-multiple-values-one-cell/",
+      "published": "2026-09-30T02:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-apple-screenless-fitness-tracker/": {
+      "title": "Appleの次世代ウェアラブルはスクリーンなしのトラッカー？",
+      "url": "https://www.gizmodo.jp/article/2609-apple-screenless-fitness-tracker/",
+      "published": "2026-09-30T02:40:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-nasa-black-hole-fall-simulation/": {
+      "title": "ブラックホールに落ちたら何が見える？→NASAが答えてくれた",
+      "url": "https://www.gizmodo.jp/article/2609-nasa-black-hole-fall-simulation/",
+      "published": "2026-09-30T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/glidic-ai-plus-u-buds/": {
+      "title": "AIレコーダーの死角を減らす。新発想「オープン型イヤホンとの融合」",
+      "url": "https://www.gizmodo.jp/article/glidic-ai-plus-u-buds/",
+      "published": "2026-09-30T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-gotoob-s-mini-bottle/": {
+      "title": "使うときだけループに変形。ぶら下げられるミニボトル",
+      "url": "https://www.gizmodo.jp/article/2609-gotoob-s-mini-bottle/",
+      "published": "2026-09-30T01:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
+    },
+    "https://www.gizmodo.jp/article/scientists-found-chocolates-biggest-climate-problem-and-it-isnt-heat-or-drought/": {
+      "title": "研究者いわく、大雨こそがチョコレート農家の最大の敵",
+      "url": "https://www.gizmodo.jp/article/scientists-found-chocolates-biggest-climate-problem-and-it-isnt-heat-or-drought/",
+      "published": "2026-09-30T01:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-01T00:33:42.610593+00:00"
     }
   },
-  "last_checked": "2026-09-30T00:27:24.362541+00:00",
+  "last_checked": "2026-10-01T00:33:42.610593+00:00",
   "first_page_count": 16
 }
