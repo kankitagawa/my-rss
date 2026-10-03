@@ -604,7 +604,7 @@
       "first_seen": "2026-10-01T00:33:42.610593+00:00"
     },
     "https://www.arukikata.co.jp/tokuhain/397769/": {
-      "title": "縄文で遊ぼう！～第4回「うめのきウキウキフェスティバル」梅之木遺跡公園（山梨県北杜市明野町）",
+      "title": "【山梨】縄文で遊ぼう！～第4回「うめのきウキウキフェスティバル」梅之木遺跡公園（北杜市明野町）",
       "url": "https://www.arukikata.co.jp/tokuhain/397769/",
       "published": "2026-10-01T00:00:00+09:00",
       "author": "水月",
@@ -630,8 +630,22 @@
       "published": "2026-09-30T00:00:00+09:00",
       "author": "小野 雅子",
       "first_seen": "2026-10-02T00:47:49.082431+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/391268/": {
+      "title": "【アメリカ】足を延ばして「プレシディゴー・サウスヒルズ・ルート」にも乗ってみた",
+      "url": "https://www.arukikata.co.jp/tokuhain/391268/",
+      "published": "2026-10-03T00:00:00+09:00",
+      "author": "美丸（Mimaru）",
+      "first_seen": "2026-10-03T00:30:38.134429+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/395908/": {
+      "title": "【スイス】３つの太陽が育む、世界遺産のラヴォー地区の葡萄畑へ！",
+      "url": "https://www.arukikata.co.jp/tokuhain/395908/",
+      "published": "2026-10-03T00:00:00+09:00",
+      "author": "さくさく探検家",
+      "first_seen": "2026-10-03T00:30:38.134429+00:00"
     }
   },
-  "last_checked": "2026-10-02T00:47:49.082431+00:00",
+  "last_checked": "2026-10-03T00:30:38.134429+00:00",
   "first_page_count": 20
 }
