@@ -2730,8 +2730,127 @@
       "published": "2026-10-05T00:00:00+00:00",
       "author": "",
       "first_seen": "2026-10-06T01:45:59.641252+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-chrome-extension-poper-blocker/": {
+      "title": "「200万人が使うChrome拡張機能」のキケンすぎる本性。ChatGPTとの会話も抜かれてしまう",
+      "url": "https://www.gizmodo.jp/article/2610-chrome-extension-poper-blocker/",
+      "published": "2026-10-06T23:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/alarming-study-finds-new-evidence-that-the-sun-can-produce-catastrophic-superflares/": {
+      "title": "地球のインフラが止まる日。太陽が壊滅的「スーパーフレア」を起こすかもしれない",
+      "url": "https://www.gizmodo.jp/article/alarming-study-finds-new-evidence-that-the-sun-can-produce-catastrophic-superflares/",
+      "published": "2026-10-06T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/solarpanel-attachment-ajv/": {
+      "title": "太陽光パネル、こんなとこにも取り付けました",
+      "url": "https://www.gizmodo.jp/article/solarpanel-attachment-ajv/",
+      "published": "2026-10-06T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/": {
+      "title": "モダンホラー： あなたのAlexa「ラララ…ラララ…」が止まらなくなってませんか…？",
+      "url": "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/",
+      "published": "2026-10-06T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-silent-candy/": {
+      "title": "カサカサ音の出ない飴、大発明だ。リップみたいな形で、静かな場所でも気にせず使えます",
+      "url": "https://www.gizmodo.jp/article/2610-silent-candy/",
+      "published": "2026-10-06T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/sound-summit-2026/": {
+      "title": "ペアで2,420万円のJBLで、最高のマイルス。伝説の達人の「レコード・ライブ」でスマイル",
+      "url": "https://www.gizmodo.jp/article/sound-summit-2026/",
+      "published": "2026-10-06T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-oled-macbook-pro-lightweight/": {
+      "title": "噂のOLED搭載MacBook Pro、最も注目すべきは…軽量化？",
+      "url": "https://www.gizmodo.jp/article/2610-oled-macbook-pro-lightweight/",
+      "published": "2026-10-06T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-solar-multi-radio-light-review/": {
+      "title": "「スマホ充電、ラジオ、SOSライト」が1台に。いま買っておくべき優秀すぎる防災アイテム",
+      "url": "https://www.gizmodo.jp/article/2610-solar-multi-radio-light-review/",
+      "published": "2026-10-06T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ugreen-finetrack-mini-2-item-tracker/": {
+      "title": "電池交換は忘れてしまえ。寿命7年の忘れ物防止タグ",
+      "url": "https://www.gizmodo.jp/article/2610-ugreen-finetrack-mini-2-item-tracker/",
+      "published": "2026-10-06T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/": {
+      "title": "【訂正あり】MacBookは閉じたまま、指紋でロック解除",
+      "url": "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/",
+      "published": "2026-10-06T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/": {
+      "title": "開発中のmacOSからタッチ操作のコードが発掘されたらしい。つまり？",
+      "url": "https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/",
+      "published": "2026-10-06T07:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/": {
+      "title": "HDDはまだ終わらない。東芝、AI向け大容量HDDを増産へ",
+      "url": "https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/",
+      "published": "2026-10-06T07:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/": {
+      "title": "55mm大玉トラックボールの「ワンランク上の操作感」を、DIYでさらに底上げしてみた",
+      "url": "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/",
+      "published": "2026-10-06T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/": {
+      "title": "「札」と呼びたくなる薄さの電子ペーパー。IDカード、チケット、やることリスト…使い道は無限大です",
+      "url": "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
+      "published": "2026-10-06T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/": {
+      "title": "ヒューマノイドのアトラス君、3本指が4本になり器用さアップ",
+      "url": "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
+      "published": "2026-10-06T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/work-using-starlink-kwc/": {
+      "title": "イーロン・マスクの衛星通信「Starlink」で3日間生活してわかったこと",
+      "url": "https://www.gizmodo.jp/article/work-using-starlink-kwc/",
+      "published": "2026-10-06T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/": {
+      "title": "出力情報から転送速度も！ AnkerのUSB-Cハブはぜ〜んぶ見せちゃう",
+      "url": "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
+      "published": "2026-10-06T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-07T00:42:46.016875+00:00"
     }
   },
-  "last_checked": "2026-10-06T01:45:59.641252+00:00",
+  "last_checked": "2026-10-07T00:42:46.016875+00:00",
   "first_page_count": 16
 }
