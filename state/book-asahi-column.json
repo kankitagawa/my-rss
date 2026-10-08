@@ -175,8 +175,22 @@
       "published": "2026-10-05T00:00:00+09:00",
       "author": "朝日新聞文化部",
       "first_seen": "2026-10-06T01:45:59.641252+00:00"
+    },
+    "https://book.asahi.com/article/16940281": {
+      "title": "「堀江敏幸コレクション」 懐かしく優しい「がらくた」",
+      "url": "https://book.asahi.com/article/16940281",
+      "published": "2026-10-08T00:00:00+09:00",
+      "author": "朝日新聞読書面",
+      "first_seen": "2026-10-08T01:00:36.267876+00:00"
+    },
+    "https://book.asahi.com/article/16939696": {
+      "title": "通説を塗り替え、多文化社会の実態明かす「中世シチリア王国の謎」 辻浩和の新書速報！",
+      "url": "https://book.asahi.com/article/16939696",
+      "published": "2026-10-07T00:00:00+09:00",
+      "author": "辻浩和",
+      "first_seen": "2026-10-08T01:00:36.267876+00:00"
     }
   },
-  "last_checked": "2026-10-07T00:42:46.016875+00:00",
+  "last_checked": "2026-10-08T01:00:36.267876+00:00",
   "first_page_count": 12
 }
