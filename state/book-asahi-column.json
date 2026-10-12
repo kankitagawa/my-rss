@@ -203,8 +203,22 @@
       "published": "2026-10-09T00:00:00+09:00",
       "author": "大島依提亜",
       "first_seen": "2026-10-09T01:13:41.078473+00:00"
+    },
+    "https://book.asahi.com/article/16919646": {
+      "title": "茶碗が彩り、母とのドラマ 青来有一",
+      "url": "https://book.asahi.com/article/16919646",
+      "published": "2026-10-11T00:00:00+09:00",
+      "author": "青来有一",
+      "first_seen": "2026-10-12T00:32:55.410633+00:00"
+    },
+    "https://book.asahi.com/article/16929805": {
+      "title": "夏の仲間意識 千早茜",
+      "url": "https://book.asahi.com/article/16929805",
+      "published": "2026-10-11T00:00:00+09:00",
+      "author": "千早茜",
+      "first_seen": "2026-10-12T00:32:55.410633+00:00"
     }
   },
-  "last_checked": "2026-10-11T00:14:43.145063+00:00",
+  "last_checked": "2026-10-12T00:32:55.410633+00:00",
   "first_page_count": 12
 }
