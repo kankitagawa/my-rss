@@ -238,8 +238,15 @@
       "published": "2026-10-15T00:00:00+09:00",
       "author": "岩井圭也",
       "first_seen": "2026-10-15T23:41:34.902779+00:00"
+    },
+    "https://book.asahi.com/article/16959423": {
+      "title": "熱狂・閑散、同じ建物に異空間 鈴木結生",
+      "url": "https://book.asahi.com/article/16959423",
+      "published": "2026-10-16T00:00:00+09:00",
+      "author": "鈴木結生",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
     }
   },
-  "last_checked": "2026-10-15T23:41:34.902779+00:00",
+  "last_checked": "2026-10-16T23:35:34.895372+00:00",
   "first_page_count": 12
 }

@@ -814,7 +814,7 @@
       "first_seen": "2026-10-08T01:00:36.267876+00:00"
     },
     "https://www.arukikata.co.jp/tokuhain/398507/": {
-      "title": "【香港】THE 50 BEST HOTELS 2026で2年連続1位に",
+      "title": "【香港】THE 50 BEST HOTELS 2026で「Rosewood Hong Kong」が2年連続1位に",
       "url": "https://www.arukikata.co.jp/tokuhain/398507/",
       "published": "2026-10-09T00:00:00+09:00",
       "author": "武田 信晃",
@@ -994,8 +994,36 @@
       "published": "2026-10-12T00:00:00+09:00",
       "author": "加藤朋子",
       "first_seen": "2026-10-14T23:55:14.508853+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/363944/": {
+      "title": "【アメリカ】シリコンバレーの原点：教授が「起業せよ」と言った日",
+      "url": "https://www.arukikata.co.jp/tokuhain/363944/",
+      "published": "2026-10-17T00:00:00+09:00",
+      "author": "美丸（Mimaru）",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/399271/": {
+      "title": "【香港】THE 50 BEST BAR 2026で「Bar Leone」 が2連覇",
+      "url": "https://www.arukikata.co.jp/tokuhain/399271/",
+      "published": "2026-10-17T00:00:00+09:00",
+      "author": "武田 信晃",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/399367/": {
+      "title": "【滋賀】秋の伊吹山を満喫！絶景と秋限定グルメ",
+      "url": "https://www.arukikata.co.jp/tokuhain/399367/",
+      "published": "2026-10-16T00:00:00+09:00",
+      "author": "なぎ",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.arukikata.co.jp/tokuhain/398782/": {
+      "title": "【東京】東京ドームホテルで北海道を味わい尽くす、「北海道フェア2026」",
+      "url": "https://www.arukikata.co.jp/tokuhain/398782/",
+      "published": "2026-10-13T00:00:00+09:00",
+      "author": "加藤朋子",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
     }
   },
-  "last_checked": "2026-10-15T23:41:34.902779+00:00",
+  "last_checked": "2026-10-16T23:35:34.895372+00:00",
   "first_page_count": 20
 }

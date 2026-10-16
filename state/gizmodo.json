@@ -4249,8 +4249,246 @@
       "published": "2026-10-15T01:00:00+00:00",
       "author": "",
       "first_seen": "2026-10-15T23:41:34.902779+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-claude-official-hackathon-2026/": {
+      "title": "11月に「Claude公式ハッカソン」開催、これはチャンスだよ。参加しやすく賞品は超豪華、非エンジニアも歓迎",
+      "url": "https://www.gizmodo.jp/article/2610-claude-official-hackathon-2026/",
+      "published": "2026-10-16T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/iphone-duo-repair-cost/": {
+      "title": "iPhone Duo、保証なしの修理代が明らかに。やっぱそうだよね…",
+      "url": "https://www.gizmodo.jp/article/iphone-duo-repair-cost/",
+      "published": "2026-10-16T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-hanes-sweats-kuro-crewneck-sweatshirt/": {
+      "title": "結局こういうのがいい。ヘインズの新作「SWEATS KURO」を使い倒してみた",
+      "url": "https://www.gizmodo.jp/article/2610-hanes-sweats-kuro-crewneck-sweatshirt/",
+      "published": "2026-10-16T14:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/elecom-usb-cable-hbt/": {
+      "title": "エレコム、よくやった！ ひと目で「仕様」がわかるUSB-Cケーブル",
+      "url": "https://www.gizmodo.jp/article/elecom-usb-cable-hbt/",
+      "published": "2026-10-16T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/": {
+      "title": "windows10のサポートは1年延びたのに、Windows 11の一部はサポート終了",
+      "url": "https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/",
+      "published": "2026-10-16T13:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-amazon-yamazaki-monitorshitastand/": {
+      "title": "モノは減らさず、PC周りをスッキリ。山崎実業の「予定管理もできるスタンド」でモニター下を整えてみた",
+      "url": "https://www.gizmodo.jp/article/2610-amazon-yamazaki-monitorshitastand/",
+      "published": "2026-10-16T13:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/": {
+      "title": "大風量を34%オフで手に入れよ。ダイソンのドライヤーがプライム感謝祭で2万4900円",
+      "url": "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/",
+      "published": "2026-10-16T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/barefoot-expo_notace_yama-t1_review/": {
+      "title": "みんなが忘れている裸足感覚。“ベアフット”ライフ、クセになりそうです",
+      "url": "https://www.gizmodo.jp/article/barefoot-expo_notace_yama-t1_review/",
+      "published": "2026-10-16T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-panasonic-lamdash-pro-review/": {
+      "title": "憧れのラムダッシュPRO、18%オフで購入。滑らかなのに深剃りできて感動",
+      "url": "https://www.gizmodo.jp/article/2610-panasonic-lamdash-pro-review/",
+      "published": "2026-10-16T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-resident-evil-movie-review/": {
+      "title": "映画『バイオハザード』。怖すぎてゲームをプレイできなかったわたしが、30年の時を経て理解できたあのゲームのワクワク感",
+      "url": "https://www.gizmodo.jp/article/2610-resident-evil-movie-review/",
+      "published": "2026-10-16T11:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/deb5b5f7-9dd1-4f6c-a1f8-24a77c92c42e/": {
+      "title": "iPhone Duo予約するなら、Amazonプライム感謝祭でケースをお迎えすべし",
+      "url": "https://www.gizmodo.jp/article/deb5b5f7-9dd1-4f6c-a1f8-24a77c92c42e/",
+      "published": "2026-10-16T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/": {
+      "title": "iPhone 18と18eは来年春に登場？ いま分かっていること全部集めました【噂まとめ】",
+      "url": "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
+      "published": "2026-10-16T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/": {
+      "title": "富士フイルムから最新チェキ「Instax Square 2」が登場。寒色と暖色フィルターで、もっと楽しい",
+      "url": "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/",
+      "published": "2026-10-16T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/garmin_marq-gen-3/": {
+      "title": "祈・日本発売！Garminが最高級GPSウォッチ「Marq Gen 3」発表",
+      "url": "https://www.gizmodo.jp/article/garmin_marq-gen-3/",
+      "published": "2026-10-16T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/": {
+      "title": "最大880MB/s。1TBの爆速microSDが3,600円OFF",
+      "url": "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/",
+      "published": "2026-10-16T09:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/": {
+      "title": "交換プレートで自分流。実用性とデザイン性に優れたiPhone 18シリーズ用ケース",
+      "url": "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
+      "published": "2026-10-16T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/": {
+      "title": "GoogleマップナビのアイコンをF1に替えたら、頭の中で「あのテーマソング」が止まらなくなるはず",
+      "url": "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
+      "published": "2026-10-16T08:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/comu-action-pro/": {
+      "title": "Comu Action Pro、徹底的に使ってみたら感謝と要望があふれでた",
+      "url": "https://www.gizmodo.jp/article/comu-action-pro/",
+      "published": "2026-10-16T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/": {
+      "title": "テスラ、ロケット技術で空飛ぶロードスターをガチで作ってしまう",
+      "url": "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
+      "published": "2026-10-16T07:40:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/": {
+      "title": "周辺機器はオフ、PCの充電だけオン。UGREENのドック、こういうのが欲しかった！",
+      "url": "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/",
+      "published": "2026-10-16T07:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/ceatec-yamagata-university/": {
+      "title": "君はスーパーボールを食べたことがあるか…。「食感」から作られた食べ物の再現率が高すぎ",
+      "url": "https://www.gizmodo.jp/article/ceatec-yamagata-university/",
+      "published": "2026-10-16T07:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/": {
+      "title": "お肉で実演。減った脂肪が可視化できるパッチで、部分痩せも夢じゃない？",
+      "url": "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/",
+      "published": "2026-10-16T06:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/ai-companies-are-preparing-to-shape-the-rules-after-everything-goes-wrong/": {
+      "title": "AI絡みの重大事件が1年以内に発生しそう。AI企業トップは急ピッチで対策中",
+      "url": "https://www.gizmodo.jp/article/ai-companies-are-preparing-to-shape-the-rules-after-everything-goes-wrong/",
+      "published": "2026-10-16T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-major-bank-mortgage-rates-what-happened-in-october-2026-yci/": {
+      "title": "主要銀行の「住宅ローン」、2026年10月の金利はどうなった？ フラット35は半年で+1.34％を記録",
+      "url": "https://www.gizmodo.jp/article/2610-major-bank-mortgage-rates-what-happened-in-october-2026-yci/",
+      "published": "2026-10-16T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-energizer-flat-led-lantern/": {
+      "title": "Amazonセールで1,300円。39mm「ほぼ板」のランタンがこんなに明るいなんて！",
+      "url": "https://www.gizmodo.jp/article/2610-energizer-flat-led-lantern/",
+      "published": "2026-10-16T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/": {
+      "title": "待ってました。『グランド・セフト・オートVI』が14%OFFで予約再開",
+      "url": "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/",
+      "published": "2026-10-16T04:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/": {
+      "title": "ピッピカビーッツ！ ピカチュウとミミッキュのBeatsスピーカーが可愛すぎる",
+      "url": "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/",
+      "published": "2026-10-16T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/surface-laptop-ultra-hands-on/": {
+      "title": "ずっと欲しかったのはこんなPC。「Surface Laptop Ultra」に感じた可能性",
+      "url": "https://www.gizmodo.jp/article/surface-laptop-ultra-hands-on/",
+      "published": "2026-10-16T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/anker-nano-travel-adapter-review/": {
+      "title": "Ankerの5 in 1アダプタ、海外旅行で使ったら手放せなくなった",
+      "url": "https://www.gizmodo.jp/article/anker-nano-travel-adapter-review/",
+      "published": "2026-10-16T03:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-cup-noodle-pro-prime-thanksgiving/": {
+      "title": "むしろAmazonありがとう。プライム感謝祭でカップヌードルPRO、1個196円",
+      "url": "https://www.gizmodo.jp/article/2610-cup-noodle-pro-prime-thanksgiving/",
+      "published": "2026-10-16T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/population-capacity-xhw/": {
+      "title": "地球の人口は完全キャパオーバー。理想は25億人",
+      "url": "https://www.gizmodo.jp/article/population-capacity-xhw/",
+      "published": "2026-10-16T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-laser-rifle-scope-hud/": {
+      "title": "スナイパー気分を味わえる。ライフルスコープに情報を浮かべるレーザー技術",
+      "url": "https://www.gizmodo.jp/article/2610-laser-rifle-scope-hud/",
+      "published": "2026-10-16T02:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/how-to-change-copilot-key/": {
+      "title": "パソコンの「AIキー」、ぶっちゃけいらない人へ。Copilotキーを変更する方法",
+      "url": "https://www.gizmodo.jp/article/how-to-change-copilot-key/",
+      "published": "2026-10-16T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-galaxy-z-fold8-samsung-market-share/": {
+      "title": "Galaxy Z Fold8が絶好調。Samsung出荷シェアを伸ばす",
+      "url": "https://www.gizmodo.jp/article/2610-galaxy-z-fold8-samsung-market-share/",
+      "published": "2026-10-16T01:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-16T23:35:34.895372+00:00"
     }
   },
-  "last_checked": "2026-10-15T23:41:34.902779+00:00",
+  "last_checked": "2026-10-16T23:35:34.895372+00:00",
   "first_page_count": 16
 }
