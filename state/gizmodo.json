@@ -4872,8 +4872,246 @@
       "published": "2026-10-18T01:00:00+00:00",
       "author": "",
       "first_seen": "2026-10-18T23:12:32.475383+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/": {
+      "title": "新型iPad miniの画面、60Hzか120Hzか？ 世に出るのはドッチ!?",
+      "url": "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/",
+      "published": "2026-10-20T00:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/": {
+      "title": "Hugging Faceに次いでReflection AIも？NVIDIAがオープンソース系AI企業を次々買収する理由",
+      "url": "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/",
+      "published": "2026-10-19T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/work-controller-joystick-combox/": {
+      "title": "いつもの仕事が必殺技っぽくなる。画面切り替えにジョイスティックの出番です",
+      "url": "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
+      "published": "2026-10-19T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/": {
+      "title": "“究極のMacBook Pro”降臨か。Appleが新製品発表イベントを10月29日に開催",
+      "url": "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
+      "published": "2026-10-19T20:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/": {
+      "title": "永遠に残る化学物質「PFAS」を水から除去する簡単な方法、あります",
+      "url": "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/",
+      "published": "2026-10-19T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma/": {
+      "title": "「今日、友だち来るんだった！」数滴でトイレのにおいに焦らず済んだ",
+      "url": "https://www.gizmodo.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma/",
+      "published": "2026-10-19T13:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/gochess-wizard-alive/": {
+      "title": "ハリポタの「勝手に動くチェス」が現実に！ 声で駒を動かす魔法の体験",
+      "url": "https://www.gizmodo.jp/article/gochess-wizard-alive/",
+      "published": "2026-10-19T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/305668-2610-amazon-ugreenpencil-ano/": {
+      "title": "純正じゃなくても大満足。2,000円台で買えるUGREENのiPadペン",
+      "url": "https://www.gizmodo.jp/article/305668-2610-amazon-ugreenpencil-ano/",
+      "published": "2026-10-19T12:55:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/": {
+      "title": "中身の交換でずっと長持ち。リサイクル素材と3Dプリントで作ったモバイルバッテリー",
+      "url": "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/",
+      "published": "2026-10-19T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/00dd8d65-1c72-42c3-bcd7-91d2bf66bdaf/": {
+      "title": "ギタースタジオが片手に収まる。黒ネコAIが音作りを助ける究極のオーディオ・インターフェイス",
+      "url": "https://www.gizmodo.jp/article/00dd8d65-1c72-42c3-bcd7-91d2bf66bdaf/",
+      "published": "2026-10-19T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/32gb-ram-standard-era/": {
+      "title": "16GBでも足りない…ゲームの世界はついに32GBメモリが主流の時代へ",
+      "url": "https://www.gizmodo.jp/article/32gb-ram-standard-era/",
+      "published": "2026-10-19T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-north-korean-laptop-farm-fbi/": {
+      "title": "北朝鮮からアメリカでリモートワーク。FBIが「ノートPC農場」を摘発",
+      "url": "https://www.gizmodo.jp/article/2610-north-korean-laptop-farm-fbi/",
+      "published": "2026-10-19T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/corsair_xeneon-edge-14-5-lcd-touch-screen/": {
+      "title": "曲を作りたくなる、この横長。CORSAIRの14.5インチ画面をDTMデスクに迎えた",
+      "url": "https://www.gizmodo.jp/article/corsair_xeneon-edge-14-5-lcd-touch-screen/",
+      "published": "2026-10-19T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-orca-echo-monitor-evenet-recruitment/": {
+      "title": "発送前の「Keychron Orca echo」を試せる。先行モニターイベント開催決定",
+      "url": "https://www.gizmodo.jp/article/2610-orca-echo-monitor-evenet-recruitment/",
+      "published": "2026-10-19T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-momentum-4-wireless-sale/": {
+      "title": "半額の魔法は0時で解ける。それまでに「MOMENTUM 4 Wireless」を迎えなきゃ！",
+      "url": "https://www.gizmodo.jp/article/2610-momentum-4-wireless-sale/",
+      "published": "2026-10-19T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/rune-energy-relic-solar-datacenter/": {
+      "title": "「電気が足りない」は思い込み？捨てている太陽光で動かす出張AIデータセンター",
+      "url": "https://www.gizmodo.jp/article/rune-energy-relic-solar-datacenter/",
+      "published": "2026-10-19T08:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-nvidia-rtx-spark-n1x/": {
+      "title": "最低グレードでも50万円超え。NVIDIAの新型チップ「N1X」はPCをどう変えるのか？",
+      "url": "https://www.gizmodo.jp/article/2610-nvidia-rtx-spark-n1x/",
+      "published": "2026-10-19T08:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-keychron-k0-max-tenkey-sale/": {
+      "title": "デスクワークの名脇役が主役級に。カスタマイズ自在のテンキーが20％OFFだ！",
+      "url": "https://www.gizmodo.jp/article/2610-keychron-k0-max-tenkey-sale/",
+      "published": "2026-10-19T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-pc-cpu-price-increase-tsmc-intel-amd/": {
+      "title": "パソコンの価格上昇が止まらない。メモリに加えてCPUも値上げラッシュ",
+      "url": "https://www.gizmodo.jp/article/2610-pc-cpu-price-increase-tsmc-intel-amd/",
+      "published": "2026-10-19T07:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/": {
+      "title": "バッテリー13時間以上いけます。ASUS Chromebook新モデルが4万円切り",
+      "url": "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/",
+      "published": "2026-10-19T06:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-gizmodo-amazon-primesale-bought-items/": {
+      "title": "ギズモードの中の人たちが、Amazonプライム感謝祭で買ったもの。全てお見せします",
+      "url": "https://www.gizmodo.jp/article/2610-gizmodo-amazon-primesale-bought-items/",
+      "published": "2026-10-19T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9-aui/": {
+      "title": "2027年“AIブーム崩壊”を「これまで以上に確信している」と、『世紀の空売り』マイケル・バーリは述べる",
+      "url": "https://www.gizmodo.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9-aui/",
+      "published": "2026-10-19T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/": {
+      "title": "折りたたみスマホに「8万円引きです！」って言われたら、そりゃ考えるよね",
+      "url": "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/",
+      "published": "2026-10-19T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-gullwing-keitruck-cooler/": {
+      "title": "ガルウイング軽トラ。実は巨大な走るクーラーボックス",
+      "url": "https://www.gizmodo.jp/article/2610-gullwing-keitruck-cooler/",
+      "published": "2026-10-19T04:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-dungeon-meshi-mandrake-3d-print/": {
+      "title": "なんじゃこりゃ。3Dプリントで作ったダンジョン飯の「マンドレイクの甘露煮」がリアルすぎ",
+      "url": "https://www.gizmodo.jp/article/2610-dungeon-meshi-mandrake-3d-print/",
+      "published": "2026-10-19T04:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-delonghi-magnificastart/": {
+      "title": "ミルクの泡立て、もう自分でやらない。デロンギが43,200円引きで過去最安",
+      "url": "https://www.gizmodo.jp/article/2610-delonghi-magnificastart/",
+      "published": "2026-10-19T04:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ugreen-finetrack-slim-wallet-tag/": {
+      "title": "33%オフ。充電式で薄さ1.7mm、お財布の紛失対策はこれが最適解かも",
+      "url": "https://www.gizmodo.jp/article/2610-ugreen-finetrack-slim-wallet-tag/",
+      "published": "2026-10-19T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-touch-macbook-release-date-rumor/": {
+      "title": "11月6日、Macの歴史が変わる？ タッチ対応MacBookの発売日、最新予想",
+      "url": "https://www.gizmodo.jp/article/2610-touch-macbook-release-date-rumor/",
+      "published": "2026-10-19T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-iphone-duo-shipping-delay/": {
+      "title": "iPhone Duo、今から予約しても届くの来年です",
+      "url": "https://www.gizmodo.jp/article/2610-iphone-duo-shipping-delay/",
+      "published": "2026-10-19T03:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-redmi-pad-2-pro-review/": {
+      "title": "iPadから「REDMI Pad 2 Pro」に買い替えたら、動画もゲームもこれで十分だった",
+      "url": "https://www.gizmodo.jp/article/2610-redmi-pad-2-pro-review/",
+      "published": "2026-10-19T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/some_windows_users_decide_to_change_linux-9zt/": {
+      "title": "今、密かに起きている「Windows離れ」。“思ったより快適な移住先”とは？",
+      "url": "https://www.gizmodo.jp/article/some_windows_users_decide_to_change_linux-9zt/",
+      "published": "2026-10-19T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-a9k-re-26-oct/": {
+      "title": "このG-SHOCK「あっさりスマートウォッチ」なところが気に入った",
+      "url": "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-a9k-re-26-oct/",
+      "published": "2026-10-19T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/7e51c534-6a5a-492b-873c-2f20f35655f2/": {
+      "title": "OnePlusの最新スマホはオバケスペック。バッテリーは9,000mAhと圧倒的",
+      "url": "https://www.gizmodo.jp/article/7e51c534-6a5a-492b-873c-2f20f35655f2/",
+      "published": "2026-10-19T01:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
+    },
+    "https://www.gizmodo.jp/article/huawei-health-lab-tour/": {
+      "title": "こんなの濃縮されたオリンピック会場じゃん。ファーウェイのヘルスケア研究所に行ってきた",
+      "url": "https://www.gizmodo.jp/article/huawei-health-lab-tour/",
+      "published": "2026-10-19T00:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-20T00:20:28.521487+00:00"
     }
   },
-  "last_checked": "2026-10-18T23:12:32.475383+00:00",
+  "last_checked": "2026-10-20T00:20:28.521487+00:00",
   "first_page_count": 16
 }
