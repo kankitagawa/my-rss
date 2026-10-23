@@ -912,7 +912,7 @@
       "first_seen": "2026-10-20T23:52:28.047353+00:00"
     },
     "https://www.si.com/mlb/comparing-payrolls-brewers-rays-world-series": {
-      "title": "Comparing the Payrolls of the Brewers and Rays With Other North American Championship Teams",
+      "title": "Comparing the Brewers and Rays’ Payrolls With Other Sports’ Championship Teams",
       "url": "https://www.si.com/mlb/comparing-payrolls-brewers-rays-world-series",
       "published": "2026-10-21T21:55:25+00:00",
       "author": "Karl Rasmussen",
@@ -931,8 +931,36 @@
       "published": "2026-10-21T11:01:12+00:00",
       "author": "Karl Rasmussen",
       "first_seen": "2026-10-22T00:00:39.801562+00:00"
+    },
+    "https://www.si.com/mlb/video/2026-world-series-preview-who-will-win-their-first-ever-fall-classic": {
+      "title": "SI's 2026 World Series Preview: Who Will Win Their First Ever Fall Classic?",
+      "url": "https://www.si.com/mlb/video/2026-world-series-preview-who-will-win-their-first-ever-fall-classic",
+      "published": "2026-10-22T13:10:38+00:00",
+      "author": "SI Video Staff",
+      "first_seen": "2026-10-22T23:59:36.340236+00:00"
+    },
+    "https://www.si.com/mlb/2026-world-series-rosters-how-brewers-and-rays-built-teams": {
+      "title": "How the Brewers and Rays Built Their World Series Rosters",
+      "url": "https://www.si.com/mlb/2026-world-series-rosters-how-brewers-and-rays-built-teams",
+      "published": "2026-10-22T21:27:34+00:00",
+      "author": "Karl Rasmussen",
+      "first_seen": "2026-10-22T23:59:36.340236+00:00"
+    },
+    "https://www.si.com/mlb/2026-world-series-nine-key-factors-to-victory": {
+      "title": "The Nine Key Factors That Will Swing the 2026 World Series",
+      "url": "https://www.si.com/mlb/2026-world-series-nine-key-factors-to-victory",
+      "published": "2026-10-22T11:00:02+00:00",
+      "author": "Tom Verducci",
+      "first_seen": "2026-10-22T23:59:36.340236+00:00"
+    },
+    "https://www.si.com/mlb/2026-world-series-rays-brewers-perfected-blueprint-for-beating-big-spenders": {
+      "title": "The Rays and Brewers Perfected a Blueprint for Beating Baseball’s Big Spenders",
+      "url": "https://www.si.com/mlb/2026-world-series-rays-brewers-perfected-blueprint-for-beating-big-spenders",
+      "published": "2026-10-22T09:22:47+00:00",
+      "author": "Ryan Phillips",
+      "first_seen": "2026-10-22T23:59:36.340236+00:00"
     }
   },
-  "last_checked": "2026-10-22T00:00:39.801562+00:00",
+  "last_checked": "2026-10-22T23:59:36.340236+00:00",
   "first_page_count": 20
 }
