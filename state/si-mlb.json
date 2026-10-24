@@ -980,8 +980,22 @@
       "published": "2026-10-23T11:00:00+00:00",
       "author": "Ryan Phillips",
       "first_seen": "2026-10-23T23:51:45.454687+00:00"
+    },
+    "https://www.si.com/mlb/brewers/2026-world-series-game-1-aaron-ashby-playoff-dominance": {
+      "title": "The Curveball, the Comeback and the Calm of Aaron Ashby",
+      "url": "https://www.si.com/mlb/brewers/2026-world-series-game-1-aaron-ashby-playoff-dominance",
+      "published": "2026-10-24T08:12:09+00:00",
+      "author": "Tom Verducci",
+      "first_seen": "2026-10-24T23:14:21.036678+00:00"
+    },
+    "https://www.si.com/mlb/2026-world-series-game-1-rays-bad-decisions-doomed-them": {
+      "title": "The Rays’ Bad Decisions Doomed Them in Game 1 of the World Series",
+      "url": "https://www.si.com/mlb/2026-world-series-game-1-rays-bad-decisions-doomed-them",
+      "published": "2026-10-24T05:29:03+00:00",
+      "author": "Ryan Phillips",
+      "first_seen": "2026-10-24T23:14:21.036678+00:00"
     }
   },
-  "last_checked": "2026-10-23T23:51:45.454687+00:00",
+  "last_checked": "2026-10-24T23:14:21.036678+00:00",
   "first_page_count": 20
 }
