@@ -6930,8 +6930,309 @@
       "published": "2026-10-28T01:00:00+00:00",
       "author": "",
       "first_seen": "2026-10-29T00:56:25.469161+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/": {
+      "title": "AIを使いまくった人が偉い時代、終了？ Amazonがエンジニアに求めること",
+      "url": "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/",
+      "published": "2026-10-30T00:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-macbook-charger-plug-change/": {
+      "title": "Macbookの充電器が“ひっそり”変更されていました。旧型プラグと互換性なし",
+      "url": "https://www.gizmodo.jp/article/2610-macbook-charger-plug-change/",
+      "published": "2026-10-30T00:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/kaite_memo-pad/": {
+      "title": "アナログとデジタルのいいとこ取り。物理的に書いて、アプリで管理するメモパッド",
+      "url": "https://www.gizmodo.jp/article/kaite_memo-pad/",
+      "published": "2026-10-29T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/": {
+      "title": "タッチ感、軽さ、冷却。新型MacBook Pro、Xでいただいた質問に答えました",
+      "url": "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
+      "published": "2026-10-29T14:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/astronomers-find-edge-milky-way-galaxy-efl/": {
+      "title": "「銀河の果て」について新たにわかったこと",
+      "url": "https://www.gizmodo.jp/article/astronomers-find-edge-milky-way-galaxy-efl/",
+      "published": "2026-10-29T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/": {
+      "title": "音声アシとAIも搭載。距離や角度を自動調整するロボ・モニターアーム",
+      "url": "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/",
+      "published": "2026-10-29T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/": {
+      "title": "Google Chromeがなりすまし対策を強化。一部の正規サイトも開けなくなるかも",
+      "url": "https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/",
+      "published": "2026-10-29T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/": {
+      "title": "iPhone DuoとAndroidの折りたたみスマホを徹底的にサイズ比較してみた",
+      "url": "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
+      "published": "2026-10-29T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/": {
+      "title": "AIが映画すら作る時代、人間のクリエイティブって何？ 押井守監督が語る「MeTA-Mirai」",
+      "url": "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/",
+      "published": "2026-10-29T11:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/xbox-handheld-project-helix/": {
+      "title": "「モバイルXbox」来年出るかも？ 次世代機が約20万円らしいし、本命はこっちか",
+      "url": "https://www.gizmodo.jp/article/xbox-handheld-project-helix/",
+      "published": "2026-10-29T11:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/": {
+      "title": "【20周年アンケート】株式会社STYLY 代表取締役 / CEO 山口 征浩",
+      "url": "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/",
+      "published": "2026-10-29T11:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/": {
+      "title": "CMF初のポータブルスピーカー「CMF Speaker M」を使ってみた。個性豊かで遊び心もあり、音も機動力も全部載せ！",
+      "url": "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/",
+      "published": "2026-10-29T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/smart-glasses-school-ban-victoria/": {
+      "title": "スマートグラス、またしめ出される。オーストラリアの一部学校で全面禁止に",
+      "url": "https://www.gizmodo.jp/article/smart-glasses-school-ban-victoria/",
+      "published": "2026-10-29T10:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/4d02b560-0c8d-4b42-8dcb-1500a4a658c9/": {
+      "title": "Xで「いいね」長押しで1ドル送金ができるようになるかも",
+      "url": "https://www.gizmodo.jp/article/4d02b560-0c8d-4b42-8dcb-1500a4a658c9/",
+      "published": "2026-10-29T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/panasonic-perovskite-glass-2029/": {
+      "title": "「発電する窓ガラス」1年はやく量産へ。いけそうな窓と壁なら東京都4つ分",
+      "url": "https://www.gizmodo.jp/article/panasonic-perovskite-glass-2029/",
+      "published": "2026-10-29T10:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/japan-government-emergency-stockpile-request/": {
+      "title": "政府が「3日分の備蓄」を緊急要請へ。サイバー攻撃と関係あるの？何があった？",
+      "url": "https://www.gizmodo.jp/article/japan-government-emergency-stockpile-request/",
+      "published": "2026-10-29T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/arc-browser-discontinuation-migration-guide/": {
+      "title": "ブラウザガチ勢に愛されたArcが12月22日に終了へ。使っていた人がやっておくべきこと",
+      "url": "https://www.gizmodo.jp/article/arc-browser-discontinuation-migration-guide/",
+      "published": "2026-10-29T09:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/": {
+      "title": "実はこれが理想のカタチ。エレコムの「4つ足タップ」、デスク裏配線の救世主です",
+      "url": "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/",
+      "published": "2026-10-29T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/": {
+      "title": "31年間解けなかった数学の難問「KLS予想」、マイクロソフト研究者とAIのチームが解決",
+      "url": "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/",
+      "published": "2026-10-29T09:25:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/": {
+      "title": "たった2gのホイッスルが、さらに爆音へアップデート。しかも暗闇で発光します",
+      "url": "https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/",
+      "published": "2026-10-29T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/": {
+      "title": "45秒でガチ紅茶を。コンビニの倍速で茶葉から淹れるマシンが気になる",
+      "url": "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
+      "published": "2026-10-29T08:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/": {
+      "title": "初のタッチ対応「MacBook Pro」がついに登場。実物に触ってきたよ",
+      "url": "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/",
+      "published": "2026-10-29T08:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/": {
+      "title": "【20周年アンケート】散財TV なおしま",
+      "url": "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/",
+      "published": "2026-10-29T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/": {
+      "title": "タッチパネル搭載MacBook Pro、実際に触ってきた感想…「これ誰向けの製品？」",
+      "url": "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
+      "published": "2026-10-29T07:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/-macbook-pro-touch-display-handson/": {
+      "title": "初のタッチ式MacBook Pro、いつもの画面が「iPhoneみたいに動く」ことに感動した",
+      "url": "https://www.gizmodo.jp/article/-macbook-pro-touch-display-handson/",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/ikkei_scalp_and_bodybrush/": {
+      "title": "旅行用のボディタオル、やめました。頭も体も洗える両面シリコンブラシ",
+      "url": "https://www.gizmodo.jp/article/ikkei_scalp_and_bodybrush/",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/nec_lavie_new_models/": {
+      "title": "NECのノートPC「LAVIE」の新モデル。新大学生や新社会人に最適な1台はこれだ",
+      "url": "https://www.gizmodo.jp/article/nec_lavie_new_models/",
+      "published": "2026-10-29T06:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/iphone-duo-eye-contact-facetime-feature/": {
+      "title": "気づいてた？ iPhone Duoには「アイコンタクト」機能がない。カメラの位置が影響？",
+      "url": "https://www.gizmodo.jp/article/iphone-duo-eye-contact-facetime-feature/",
+      "published": "2026-10-29T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/echo-studio-with-home-camera-hands-on/": {
+      "title": "AmazonからEcho新モデル登場。 新時代の目覚まし時計「Echo Time」や新型Echo Dotなど",
+      "url": "https://www.gizmodo.jp/article/echo-studio-with-home-camera-hands-on/",
+      "published": "2026-10-29T05:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-shelly-chair-leg-cover-review/": {
+      "title": "ズレる、ホコリや髪の毛がつくストレスから解放！ 1年使った「椅子脚カバー」をリピ買いしたよ",
+      "url": "https://www.gizmodo.jp/article/2610-shelly-chair-leg-cover-review/",
+      "published": "2026-10-29T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/mcdonalds-lenovo-collab-mouse/": {
+      "title": "マックフライポテト型のマウス…！ 中国限定のナイスなコラボ、ぜひ世界展開を",
+      "url": "https://www.gizmodo.jp/article/mcdonalds-lenovo-collab-mouse/",
+      "published": "2026-10-29T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/": {
+      "title": "「虎視眈々」と狙うのは…？ 己の目標を叶えるHOKAのランシューコレクション",
+      "url": "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/",
+      "published": "2026-10-29T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-meta-smart-glasses-privacy-lawsuit/": {
+      "title": "Metaのスマートグラス、盗撮懸念で販売禁止を求める訴訟に",
+      "url": "https://www.gizmodo.jp/article/2610-meta-smart-glasses-privacy-lawsuit/",
+      "published": "2026-10-29T03:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-watch-smart-sensor-the-heir/": {
+      "title": "小さいセンサーを貼るだけ、お気に入りの腕時計をスマート化。スマウォ乗り換えいらずじゃん",
+      "url": "https://www.gizmodo.jp/article/2610-watch-smart-sensor-the-heir/",
+      "published": "2026-10-29T03:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/341ad386-2f0c-401a-9add-9618e78a6cf5/": {
+      "title": "モトローラ「signature 27」ってどんなスマホ？ 11月の続報前におさらいしてみよう",
+      "url": "https://www.gizmodo.jp/article/341ad386-2f0c-401a-9add-9618e78a6cf5/",
+      "published": "2026-10-29T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-alexa-plus-japan-release/": {
+      "title": "AmazonのAIパーソナルアシスタント「Alexa+」がついに日本上陸。月額3,000円。プライム会員は無料！",
+      "url": "https://www.gizmodo.jp/article/2610-alexa-plus-japan-release/",
+      "published": "2026-10-29T03:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ai-cyber-attack-agents-japan/": {
+      "title": "サイバー攻撃もAIで分業…。44体のエージェントが日本の組織を狙っていた",
+      "url": "https://www.gizmodo.jp/article/2610-ai-cyber-attack-agents-japan/",
+      "published": "2026-10-29T03:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/ring-smart-lock-power-dial/": {
+      "title": "スマートロックの電池が切れた？ なら、玄関先で発電しちゃおう（手回しで）",
+      "url": "https://www.gizmodo.jp/article/ring-smart-lock-power-dial/",
+      "published": "2026-10-29T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-sony-spatial-reality-display-elf-mn1/": {
+      "title": "推しキャラがデスクに降臨。ソニーの新型ディスプレイは裸眼で3Dを楽しめる",
+      "url": "https://www.gizmodo.jp/article/2610-sony-spatial-reality-display-elf-mn1/",
+      "published": "2026-10-29T02:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/dummy-tv-2/": {
+      "title": "これがあると家に泥棒が寄ってこない理由",
+      "url": "https://www.gizmodo.jp/article/dummy-tv-2/",
+      "published": "2026-10-29T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/": {
+      "title": "消費電力2,600W超えも余裕！EcoFlow「DELTA 3800 Gen4」をギズモード自慢のデスクで試す1日",
+      "url": "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/",
+      "published": "2026-10-29T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-gemini-4-carbon/": {
+      "title": "Googleが新フラッグシップAI「Gemini 4 Carbon」を発表したけど…「ベンチマークは最強」しかわからん",
+      "url": "https://www.gizmodo.jp/article/2610-gemini-4-carbon/",
+      "published": "2026-10-29T01:25:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/smart-rechargeable-battery/": {
+      "title": "この乾電池、残量をアプリで確認できる。しかも充電式で繰り返し使えてエコ",
+      "url": "https://www.gizmodo.jp/article/smart-rechargeable-battery/",
+      "published": "2026-10-29T01:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-30T00:59:07.255167+00:00"
     }
   },
-  "last_checked": "2026-10-29T00:56:25.469161+00:00",
+  "last_checked": "2026-10-30T00:59:07.255167+00:00",
   "first_page_count": 16
 }
