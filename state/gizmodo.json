@@ -7231,8 +7231,267 @@
       "published": "2026-10-29T01:00:00+00:00",
       "author": "",
       "first_seen": "2026-10-30T00:59:07.255167+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-space-cannon-transport-system/": {
+      "title": "宇宙に荷物を送るなら、撃てばいい？ 全長約10kmの大砲を造る構想がSFすぎる",
+      "url": "https://www.gizmodo.jp/article/2610-space-cannon-transport-system/",
+      "published": "2026-10-30T23:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/on_cloud_6_wp-v2/": {
+      "title": "蒸れないOnの防水シューズ。徒歩3万歩でも足は元気でした",
+      "url": "https://www.gizmodo.jp/article/on_cloud_6_wp-v2/",
+      "published": "2026-10-30T14:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/": {
+      "title": "小島秀夫の頭の中をのぞこう。コジプロ10周年展にはゲームが生まれる瞬間が詰まっていた",
+      "url": "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/",
+      "published": "2026-10-30T13:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/galaxy-s27-pro-ultra-battery-leak/": {
+      "title": "来年のGalaxy S27シリーズ、バッテリー増量の予感。Ultraは5,000mAh台後半に？",
+      "url": "https://www.gizmodo.jp/article/galaxy-s27-pro-ultra-battery-leak/",
+      "published": "2026-10-30T13:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-biometric-voting-50-countries/": {
+      "title": "選挙の本人確認、いつまで自己申告？世界50カ国で生体認証にしてみてわかったこと",
+      "url": "https://www.gizmodo.jp/article/2610-biometric-voting-50-countries/",
+      "published": "2026-10-30T12:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/": {
+      "title": "お世話するつもりで沼っちゃう？ Meta版｢たまごっち2.0｣の巧妙なワナ",
+      "url": "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/",
+      "published": "2026-10-30T12:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/": {
+      "title": "テスラがおっきなモバイルバッテリーに。 日本向け給電アダプター登場",
+      "url": "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
+      "published": "2026-10-30T11:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/": {
+      "title": "開封した瓶ビール、再び栓ができる栓抜き。「あとで飲む」が実現します",
+      "url": "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/",
+      "published": "2026-10-30T11:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/": {
+      "title": "Razerの「光るネコ耳」ヘッドホンに第3世代登場。USB Type-C ニャンコになるのだ",
+      "url": "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/",
+      "published": "2026-10-30T10:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/": {
+      "title": "このお祭り、妙に静かでクサくない…屋台の電源が“チャージスポット方式”になっていく？",
+      "url": "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/",
+      "published": "2026-10-30T10:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/": {
+      "title": "勝ち残るAI感ましましのMeta。企業の利用規約改定でAIフィードましまし",
+      "url": "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
+      "published": "2026-10-30T10:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/": {
+      "title": "米兵器メーカー、まさかのノートPCに参入。理由は「国家安全保障」",
+      "url": "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/",
+      "published": "2026-10-30T10:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/": {
+      "title": "3年先まで売り切れ…。SKハイニックスのメモリ、2029年まで実質完売",
+      "url": "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/",
+      "published": "2026-10-30T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/krups_coffee_crush_experience/": {
+      "title": "豆の計量は不要。コーヒーもエスプレッソもわずか2分で飲める全自動コーヒーマシーン",
+      "url": "https://www.gizmodo.jp/article/krups_coffee_crush_experience/",
+      "published": "2026-10-30T10:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-anker-liberty-buds-2/": {
+      "title": "小さくても攻めの姿勢。Anker新作「Liberty Buds 2」、やる気を感じる10％ポイント還元だ",
+      "url": "https://www.gizmodo.jp/article/2610-anker-liberty-buds-2/",
+      "published": "2026-10-30T09:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/super-mouse_touchscreen/": {
+      "title": "タッチスクリーン付きのマウス。左手デバイスより便利そう",
+      "url": "https://www.gizmodo.jp/article/super-mouse_touchscreen/",
+      "published": "2026-10-30T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/": {
+      "title": "小さい、お手頃、横スクロールもできる。エレコムのマウス、これで十分では？",
+      "url": "https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/",
+      "published": "2026-10-30T09:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/kling40-ai-video-generator/": {
+      "title": "日本語に強い動画生成AIみつけました。これから始める人に「Kling 4.0」をオススメする理由",
+      "url": "https://www.gizmodo.jp/article/kling40-ai-video-generator/",
+      "published": "2026-10-30T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/dbe8ce5b-77be-415a-8d3c-3a554d2355e1/": {
+      "title": "データ漏洩に備えて自衛。手のひらサイズの「データ金庫」",
+      "url": "https://www.gizmodo.jp/article/dbe8ce5b-77be-415a-8d3c-3a554d2355e1/",
+      "published": "2026-10-30T07:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/panasonic_plaquescan-brush/": {
+      "title": "カメラで導く歯の健康。パナソニックのカメラ付きブラシで磨き残しゼロへ",
+      "url": "https://www.gizmodo.jp/article/panasonic_plaquescan-brush/",
+      "published": "2026-10-30T06:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/oura_smart-ring_new_features_cardio_effort_vo2-max/": {
+      "title": "Ouraのスマートリングに2つの新機能。心血管の健康状態に着目",
+      "url": "https://www.gizmodo.jp/article/oura_smart-ring_new_features_cardio_effort_vo2-max/",
+      "published": "2026-10-30T06:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/": {
+      "title": "ミニバッグのときの財布かさばる問題。無印良品の「290円で買えるカードケース」でスマートに解決できた",
+      "url": "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/",
+      "published": "2026-10-30T05:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/": {
+      "title": "SNSで時間を溶かしたくない人へ。スマホを使いたければ玄関まで歩いてください",
+      "url": "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/",
+      "published": "2026-10-30T05:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/binance-hack-1-trillion-yen/": {
+      "title": "暗号資産 約1兆円が一瞬で流出…。史上最大規模のハッキングが発生、一体何があった？",
+      "url": "https://www.gizmodo.jp/article/binance-hack-1-trillion-yen/",
+      "published": "2026-10-30T04:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/macbook-googlebook-os-install/": {
+      "title": "【魔改造】MacBookにGooglebookをインストールする猛者、現る",
+      "url": "https://www.gizmodo.jp/article/macbook-googlebook-os-install/",
+      "published": "2026-10-30T04:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-catl-battery-swap-ev-truck/": {
+      "title": "充電待ちゼロ、5分でリスタート。電池交換式で攻める中国のEVトラックが頼もしい",
+      "url": "https://www.gizmodo.jp/article/2610-catl-battery-swap-ev-truck/",
+      "published": "2026-10-30T04:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-keychron-carbon-60-he-8k/": {
+      "title": "キーまでカーボン。Keychronの新作キーボード、この徹底っぷりよ",
+      "url": "https://www.gizmodo.jp/article/2610-keychron-carbon-60-he-8k/",
+      "published": "2026-10-30T03:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/ps5-transparent-controllers-prism/": {
+      "title": "PS5に「スケルトンな新色コントローラー」が登場",
+      "url": "https://www.gizmodo.jp/article/ps5-transparent-controllers-prism/",
+      "published": "2026-10-30T03:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ai-smart-tv-retro/": {
+      "title": "AIを駆使してスマートテレビを「古き良き時代のテレビ」に戻す人たち。",
+      "url": "https://www.gizmodo.jp/article/2610-ai-smart-tv-retro/",
+      "published": "2026-10-30T03:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/": {
+      "title": "Googleがポリシー改定。Gmailやフォトの中身まで広告選びの参考にされるかも",
+      "url": "https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/",
+      "published": "2026-10-30T03:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-ipad-mini-hands-on-review/": {
+      "title": "控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー",
+      "url": "https://www.gizmodo.jp/article/2610-ipad-mini-hands-on-review/",
+      "published": "2026-10-30T03:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/google-chrome-fake-app-play-store/": {
+      "title": "Googleさん「Chrome」のニセモノを本物より上に表示してしまう。なんだこのアプリ…？",
+      "url": "https://www.gizmodo.jp/article/google-chrome-fake-app-play-store/",
+      "published": "2026-10-30T03:15:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/nape-pro-se-gizmart-re/": {
+      "title": "カラフルになった「Nape Pro SE」は、あの日誰かが夢見たアナザーストーリー",
+      "url": "https://www.gizmodo.jp/article/nape-pro-se-gizmart-re/",
+      "published": "2026-10-30T03:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-iphone-selfie-age-verification/": {
+      "title": "iPhone、自撮りで年齢確認できるようになるらしい。え、大人っぽい17歳はどうなるの？",
+      "url": "https://www.gizmodo.jp/article/2610-iphone-selfie-age-verification/",
+      "published": "2026-10-30T02:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/": {
+      "title": "物理学者が教える、核爆発が起きたらどこに隠れるのがベスト？",
+      "url": "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/",
+      "published": "2026-10-30T02:35:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/2610-active-cyber-defense/": {
+      "title": "日本の警察が“攻撃元に侵入”できるように。GMOが要請した「能動的サイバー防御」って何？",
+      "url": "https://www.gizmodo.jp/article/2610-active-cyber-defense/",
+      "published": "2026-10-30T02:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/": {
+      "title": "CDプレーヤーをDJデッキにしちゃえ。km5の新作薄型スピーカーとワイヤレスミキサー",
+      "url": "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/",
+      "published": "2026-10-30T02:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-10-31T00:48:13.590798+00:00"
     }
   },
-  "last_checked": "2026-10-30T00:59:07.255167+00:00",
+  "last_checked": "2026-10-31T00:48:13.590798+00:00",
   "first_page_count": 16
 }
