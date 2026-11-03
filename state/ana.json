@@ -547,8 +547,29 @@
       "published": "2026-10-30T10:00:00+09:00",
       "author": "",
       "first_seen": "2026-10-31T00:48:13.590798+00:00"
+    },
+    "https://tsubasa.ana.co.jp/ana-report/aisatsu/aisatsu_202611/": {
+      "title": "11月のごあいさつ 弁柄の赤に誘われて、秋の沖縄へ",
+      "url": "https://tsubasa.ana.co.jp/ana-report/aisatsu/aisatsu_202611/",
+      "published": "2026-11-02T12:00:00+09:00",
+      "author": "",
+      "first_seen": "2026-11-03T02:55:42.980806+00:00"
+    },
+    "https://tsubasa.ana.co.jp/travel/int/turkey_antalya202611/antalya02/": {
+      "title": "トルコ・アンタルヤの食をたどる旅 名物が見当たらない理由",
+      "url": "https://tsubasa.ana.co.jp/travel/int/turkey_antalya202611/antalya02/",
+      "published": "2026-11-02T11:59:00+09:00",
+      "author": "",
+      "first_seen": "2026-11-03T02:55:42.980806+00:00"
+    },
+    "https://tsubasa.ana.co.jp/travel/dom/morioka202611/morioka02/": {
+      "title": "創業78年のパン店から町家ショップまで 盛岡の記憶を受け継ぐ5つの場所へ",
+      "url": "https://tsubasa.ana.co.jp/travel/dom/morioka202611/morioka02/",
+      "published": "2026-11-02T11:58:00+09:00",
+      "author": "",
+      "first_seen": "2026-11-03T02:55:42.980806+00:00"
     }
   },
-  "last_checked": "2026-11-02T00:44:29.699724+00:00",
+  "last_checked": "2026-11-03T02:55:42.980806+00:00",
   "first_page_count": 30
 }
