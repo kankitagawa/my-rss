@@ -1136,7 +1136,7 @@
       "first_seen": "2026-10-31T00:48:13.590798+00:00"
     },
     "https://www.si.com/mlb/2026-mlb-all-playoff-team-reflects-brewers-dominance": {
-      "title": "SI’s MLB All-Postseason Team Reflects’ Brewers Dominance",
+      "title": "SI’s MLB All-Postseason Team Reflects Brewers’ Dominance",
       "url": "https://www.si.com/mlb/2026-mlb-all-playoff-team-reflects-brewers-dominance",
       "published": "2026-10-31T12:00:00+00:00",
       "author": "Will Laws",
@@ -1155,8 +1155,22 @@
       "published": "2026-11-02T12:00:06+00:00",
       "author": "Tom Verducci",
       "first_seen": "2026-11-03T02:55:42.980806+00:00"
+    },
+    "https://www.si.com/mlb/2026-27-offseason-moves-american-league-teams-should-make-but-wont": {
+      "title": "One Offseason Move Every AL Team Should Make, but Won’t",
+      "url": "https://www.si.com/mlb/2026-27-offseason-moves-american-league-teams-should-make-but-wont",
+      "published": "2026-11-03T13:00:02+00:00",
+      "author": "Karl Rasmussen",
+      "first_seen": "2026-11-04T01:20:28.286428+00:00"
+    },
+    "https://www.si.com/mlb/brewers/rise-of-robert-gasser-2026-world-series-bottom-line": {
+      "title": "The Rise of Robert Gasser, and the Bottom Line of the 2026 World Series",
+      "url": "https://www.si.com/mlb/brewers/rise-of-robert-gasser-2026-world-series-bottom-line",
+      "published": "2026-11-03T08:31:06+00:00",
+      "author": "Tom Verducci",
+      "first_seen": "2026-11-04T01:20:28.286428+00:00"
     }
   },
-  "last_checked": "2026-11-03T02:55:42.980806+00:00",
-  "first_page_count": 19
+  "last_checked": "2026-11-04T01:20:28.286428+00:00",
+  "first_page_count": 20
 }
