@@ -357,8 +357,22 @@
       "published": "2026-11-06T00:00:00+09:00",
       "author": "都甲幸治",
       "first_seen": "2026-11-06T01:32:39.045303+00:00"
+    },
+    "https://book.asahi.com/article/17016992": {
+      "title": "お賽銭いくらに、揺れる心 青来有一 ／長崎県",
+      "url": "https://book.asahi.com/article/17016992",
+      "published": "2026-11-08T00:00:00+09:00",
+      "author": "青来有一",
+      "first_seen": "2026-11-09T00:55:14.298648+00:00"
+    },
+    "https://book.asahi.com/article/17001989": {
+      "title": "ただいま在廊中 千早茜",
+      "url": "https://book.asahi.com/article/17001989",
+      "published": "2026-11-08T00:00:00+09:00",
+      "author": "千早茜",
+      "first_seen": "2026-11-09T00:55:14.298648+00:00"
     }
   },
-  "last_checked": "2026-11-08T00:35:26.578138+00:00",
+  "last_checked": "2026-11-09T00:55:14.298648+00:00",
   "first_page_count": 12
 }
