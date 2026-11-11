@@ -406,8 +406,15 @@
       "published": "2026-11-09T00:00:00+09:00",
       "author": "朝日新聞文化部",
       "first_seen": "2026-11-10T03:34:16.333649+00:00"
+    },
+    "https://book.asahi.com/article/17033972": {
+      "title": "ミステリの尽きせぬ魅力 沼田真佑",
+      "url": "https://book.asahi.com/article/17033972",
+      "published": "2026-11-11T00:00:00+09:00",
+      "author": "沼田真佑",
+      "first_seen": "2026-11-11T01:14:17.639376+00:00"
     }
   },
-  "last_checked": "2026-11-10T03:34:16.333649+00:00",
+  "last_checked": "2026-11-11T01:14:17.639376+00:00",
   "first_page_count": 12
 }
