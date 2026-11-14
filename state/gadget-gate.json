@@ -1759,7 +1759,7 @@
       "first_seen": "2026-11-12T02:16:13.849252+00:00"
     },
     "https://gadget.phileweb.com/post-137400/": {
-      "title": "（3人目の疑惑も浮上）NVIDIA、フアンCEOを解任。トランプ大統領はティム・クック氏を後任に推薦",
+      "title": "NVIDIAフアンCEO辞任。トランプ大統領はティム・クック氏を後任に推薦",
       "url": "https://gadget.phileweb.com/post-137400/",
       "published": "2026-11-12T22:20:00+00:00",
       "author": "",
@@ -1813,8 +1813,43 @@
       "published": "2026-11-12T02:30:00+00:00",
       "author": "",
       "first_seen": "2026-11-13T01:49:27.422102+00:00"
+    },
+    "https://gadget.phileweb.com/post-136645/": {
+      "title": "iPhone Duoのカメラで満足できるか。iPhone 18 Proと撮り比べて分かった選び方",
+      "url": "https://gadget.phileweb.com/post-136645/",
+      "published": "2026-11-13T22:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-14T01:27:21.822201+00:00"
+    },
+    "https://gadget.phileweb.com/post-137473/": {
+      "title": "「NVIDIAのDLSSより高性能」うたう独自のニューラルレンダリング技術が登場、近くオープンソース化へ",
+      "url": "https://gadget.phileweb.com/post-137473/",
+      "published": "2026-11-13T07:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-14T01:27:21.822201+00:00"
+    },
+    "https://gadget.phileweb.com/post-137455/": {
+      "title": "Meta、「Museが代わりに電話する」機能を米国で提供開始。予約や問い合わせを代行、保留中の待機にも対応",
+      "url": "https://gadget.phileweb.com/post-137455/",
+      "published": "2026-11-13T05:45:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-14T01:27:21.822201+00:00"
+    },
+    "https://gadget.phileweb.com/post-137434/": {
+      "title": "GoogleとサムスンのAIグラスはiPhoneにも対応。米韓で予約開始、約6万円から",
+      "url": "https://gadget.phileweb.com/post-137434/",
+      "published": "2026-11-13T03:25:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-14T01:27:21.822201+00:00"
+    },
+    "https://gadget.phileweb.com/post-137429/": {
+      "title": "うわさのアップル製AIスマートグラスに中国メーカーが言及、新型イヤホンにも関与か",
+      "url": "https://gadget.phileweb.com/post-137429/",
+      "published": "2026-11-13T02:55:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-14T01:27:21.822201+00:00"
     }
   },
-  "last_checked": "2026-11-13T01:49:27.422102+00:00",
+  "last_checked": "2026-11-14T01:27:21.822201+00:00",
   "first_page_count": 10
 }
