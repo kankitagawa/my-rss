@@ -490,8 +490,15 @@
       "published": "2026-11-19T00:00:00+09:00",
       "author": "好書好日編集部",
       "first_seen": "2026-11-19T02:38:08.353688+00:00"
+    },
+    "https://book.asahi.com/article/17056305": {
+      "title": "「昭和館」で思う、自分に正直に 鈴木結生",
+      "url": "https://book.asahi.com/article/17056305",
+      "published": "2026-11-20T00:00:00+09:00",
+      "author": "鈴木結生",
+      "first_seen": "2026-11-20T02:19:15.878429+00:00"
     }
   },
-  "last_checked": "2026-11-19T02:38:08.353688+00:00",
+  "last_checked": "2026-11-20T02:19:15.878429+00:00",
   "first_page_count": 12
 }
