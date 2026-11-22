@@ -504,8 +504,22 @@
       "published": "2026-11-21T00:00:00+09:00",
       "author": "好書好日編集部",
       "first_seen": "2026-11-21T02:13:48.798588+00:00"
+    },
+    "https://book.asahi.com/article/17047954": {
+      "title": "ひみつの本屋（静岡・熱海） 入場券を購入し、カギを借りて入る 店主のいない ほの暗い4畳半",
+      "url": "https://book.asahi.com/article/17047954",
+      "published": "2026-11-22T00:00:00+09:00",
+      "author": "朴順梨",
+      "first_seen": "2026-11-22T01:18:34.659595+00:00"
+    },
+    "https://book.asahi.com/article/17043454": {
+      "title": "会えなくともつながる 澤田瞳子",
+      "url": "https://book.asahi.com/article/17043454",
+      "published": "2026-11-22T00:00:00+09:00",
+      "author": "澤田瞳子",
+      "first_seen": "2026-11-22T01:18:34.659595+00:00"
     }
   },
-  "last_checked": "2026-11-21T02:13:48.798588+00:00",
+  "last_checked": "2026-11-22T01:18:34.659595+00:00",
   "first_page_count": 12
 }
