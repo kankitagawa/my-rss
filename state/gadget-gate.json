@@ -2165,7 +2165,7 @@
       "first_seen": "2026-11-24T05:19:29.295613+00:00"
     },
     "https://gadget.phileweb.com/post-138430/": {
-      "title": "ランサムウェア解除請負人、料金が「解除キー引き換え用の身代金＋手数料」とバレて起訴される。FBIがなりすまし捜査",
+      "title": "ランサムウェア解除請負人、実はハッカーに渡す「身代金」と「手数料」を顧客から徴収していただけとバレて起訴。FBIのなりすまし捜査で判明",
       "url": "https://gadget.phileweb.com/post-138430/",
       "published": "2026-11-25T03:34:39+00:00",
       "author": "",
@@ -2198,8 +2198,71 @@
       "published": "2026-11-24T05:30:00+00:00",
       "author": "",
       "first_seen": "2026-11-25T04:10:59.002408+00:00"
+    },
+    "https://gadget.phileweb.com/post-138574/": {
+      "title": "1Password、社内システムへの不正侵入を公表。一部顧客の氏名やメアド流出も、保存パスワードは無事",
+      "url": "https://gadget.phileweb.com/post-138574/",
+      "published": "2026-11-26T03:15:33+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138561/": {
+      "title": "Razer Chinaがゲーミングコンドーム（?）とマウスパッドのギフトボックスを発表。Durexとコラボ",
+      "url": "https://gadget.phileweb.com/post-138561/",
+      "published": "2026-11-26T02:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-134766/": {
+      "title": "タフを極めた超高速。動画に最適なmicroSD、SUNEAST 「ULTIMATE」を解説&レビュー",
+      "url": "https://gadget.phileweb.com/post-134766/",
+      "published": "2026-11-25T21:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138409/": {
+      "title": "エレコム、“低発熱の小型65W充電器”と“より燃えにくいNext Li＋モバイルバッテリー”発表",
+      "url": "https://gadget.phileweb.com/post-138409/",
+      "published": "2026-11-25T09:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138532/": {
+      "title": "モトローラ、日本語で24時間相談できるコンシェルジュ。「signature」購入者は2年間無料",
+      "url": "https://gadget.phileweb.com/post-138532/",
+      "published": "2026-11-25T08:20:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138492/": {
+      "title": "モトローラ、初フラグシップ「signature」発表。片岡愛之助も絶賛「すごく良い触り心地」",
+      "url": "https://gadget.phileweb.com/post-138492/",
+      "published": "2026-11-25T08:10:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138485/": {
+      "title": "『The Witcher 4』も『GTA6』みたいに大幅進化する？株主の問いにCD Pojekt「前作から11年も経っているので…」",
+      "url": "https://gadget.phileweb.com/post-138485/",
+      "published": "2026-11-25T08:00:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138454/": {
+      "title": "アップル、新たな「（PRODUCT）RED」製品を12月1日前後に発売のうわさ。「AirPods Max 2」特別版も",
+      "url": "https://gadget.phileweb.com/post-138454/",
+      "published": "2026-11-25T05:50:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
+    },
+    "https://gadget.phileweb.com/post-138438/": {
+      "title": "次期「Galaxy S27 Ultra」はカメラが簡略化？ 3倍望遠とレーザーAFがなくなるかも",
+      "url": "https://gadget.phileweb.com/post-138438/",
+      "published": "2026-11-25T05:30:00+00:00",
+      "author": "",
+      "first_seen": "2026-11-26T03:34:40.944077+00:00"
     }
   },
-  "last_checked": "2026-11-25T04:10:59.002408+00:00",
+  "last_checked": "2026-11-26T03:34:40.944077+00:00",
   "first_page_count": 10
 }
